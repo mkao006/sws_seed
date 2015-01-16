@@ -1,0 +1,2083 @@
+Item,ItemCode,AreaCode,AreaName,LowerSeedRate,SeedRate,UpperSeedRate,Flag
+Wheat,15,1,Armenia,281,288,295,TCF
+Wheat,15,2,Afghanistan,199,206,213,E
+Wheat,15,3,Albania,217,223,229,E
+Wheat,15,4,Algeria,93,101,109,E
+Wheat,15,7,Angola,86,90,94,E
+Wheat,15,8,Antigua and Barbuda,67,73,79,E
+Wheat,15,9,Argentina,143,146,149,E
+Wheat,15,10,Australia,182,193,204,E
+Wheat,15,11,Austria,172,179,186,E
+Wheat,15,12,"Bahamas, The",68,74,80,E
+Wheat,15,13,Bahrain,132,140,148,E
+Wheat,15,16,Bangladesh,126,133,140,E
+Wheat,15,18,Bhutan,164,171,178,E
+Wheat,15,19,Bolivia,87,90,93,TCF
+Wheat,15,20,Botswana,80,86,92,E
+Wheat,15,21,Brazil,89,93,97,E
+Wheat,15,23,Belize,89,94,99,E
+Wheat,15,25,Solomon Islands,183,193,203,E
+Wheat,15,26,Brunei Darussalam,29,40,51,E
+Wheat,15,27,Bulgaria,216,222,228,E
+Wheat,15,28,Myanmar,115,121,127,TCF
+Wheat,15,29,Burundi,92,96,100,E
+Wheat,15,32,Cameroon,72,77,82,E
+Wheat,15,33,Canada,81,95,109,TCF
+Wheat,15,35,Cape Verde,95,100,105,E
+Wheat,15,37,Central African Republic,77,82,87,E
+Wheat,15,38,Sri Lanka,133,139,145,E
+Wheat,15,39,Chad,89,96,103,E
+Wheat,15,40,Chile,140,143,146,E
+Wheat,15,41,China,198,206,214,E
+Wheat,15,44,Colombia,72,79,86,E
+Wheat,15,45,Comoros,71,76,81,E
+Wheat,15,46,"Congo, Rep.",69,74,79,E
+Wheat,15,48,Costa Rica,63,71,79,E
+Wheat,15,50,Cyprus,136,142,148,E
+Wheat,15,52,Azerbaijan,214,220,226,TCF
+Wheat,15,53,Benin,76,81,86,E
+Wheat,15,54,Denmark,183,190,197,OD
+Wheat,15,55,Dominica,63,72,81,E
+Wheat,15,56,Dominican Republic,99,103,107,E
+Wheat,15,57,Belarus,225,231,237,E
+Wheat,15,58,Ecuador,98,103,108,E
+Wheat,15,59,"Egypt, Arab Rep.",98,105,112,E
+Wheat,15,60,El Salvador,97,101,105,E
+Wheat,15,61,Equatorial Guinea,11,20,29,E
+Wheat,15,63,Estonia,216,222,228,E
+Wheat,15,66,Fiji,193,203,213,E
+Wheat,15,67,Finland,203,210,217,E
+Wheat,15,68,France,178,184,190,E
+Wheat,15,73,Georgia,282,290,298,TCF
+Wheat,15,74,Gabon,45,51,57,E
+Wheat,15,75,"Gambia, The",77,83,89,E
+Wheat,15,79,Germany,174,180,186,TCF
+Wheat,15,80,Bosnia and Herzegovina,264,270,276,OD
+Wheat,15,81,Ghana,74,79,84,E
+Wheat,15,83,Kiribati,213,227,241,E
+Wheat,15,84,Greece,188,194,200,E
+Wheat,15,86,Grenada,94,99,104,E
+Wheat,15,89,Guatemala,85,92,99,E
+Wheat,15,90,Guinea,68,74,80,E
+Wheat,15,91,Guyana,88,94,100,E
+Wheat,15,93,Haiti,108,113,118,E
+Wheat,15,95,Honduras,85,90,95,TCF
+Wheat,15,96,"Hong Kong SAR, China",57,66,75,E
+Wheat,15,97,Hungary,208,213,218,E
+Wheat,15,98,Croatia,200,205,210,E
+Wheat,15,99,Iceland,193,200,207,E
+Wheat,15,100,India,95,100,105,OD
+Wheat,15,101,Indonesia,114,121,128,E
+Wheat,15,102,Iran (Islamic Republic of),117,124,131,TCF
+Wheat,15,103,Iraq,177,184,191,E
+Wheat,15,104,Ireland,165,172,179,E
+Wheat,15,105,Israel,137,143,149,E
+Wheat,15,106,Italy,179,185,191,E
+Wheat,15,107,Cote d'Ivoire,72,77,82,E
+Wheat,15,108,Kazakhstan,140,150,160,TCF
+Wheat,15,110,Japan,127,135,143,E
+Wheat,15,112,Jordan,108,115,122,TCF
+Wheat,15,113,Kyrgyz Republic,221,230,239,OD
+Wheat,15,114,Kenya,120,125,130,OD
+Wheat,15,115,Cambodia,133,139,145,E
+Wheat,15,117,"Korea, Rep.",135,144,153,E
+Wheat,15,118,Kuwait,102,111,120,E
+Wheat,15,119,Latvia,244,250,256,TCF
+Wheat,15,120,Lao PDR,145,150,155,E
+Wheat,15,121,Lebanon,136,140,144,TCF
+Wheat,15,122,Lesotho,56,60,64,TCF
+Wheat,15,123,Liberia,55,63,71,E
+Wheat,15,124,Libya,81,88,95,E
+Wheat,15,126,Lithuania,215,221,227,E
+Wheat,15,129,Madagascar,95,100,105,TCF
+Wheat,15,130,Malawi,96,100,104,CS
+Wheat,15,131,Malaysia,89,97,105,E
+Wheat,15,132,Maldives,116,122,128,E
+Wheat,15,133,Mali,86,93,100,E
+Wheat,15,134,Malta,177,185,193,E
+Wheat,15,136,Mauritania,89,97,105,E
+Wheat,15,137,Mauritius,53,59,65,E
+Wheat,15,138,Mexico,111,115,119,OD
+Wheat,15,141,Mongolia,224,236,248,E
+Wheat,15,143,Morocco,94,100,106,TCF
+Wheat,15,144,Mozambique,43,48,53,OD
+Wheat,15,145,"Micronesia, Fed. Sts.",172,183,194,E
+Wheat,15,146,Moldova,223,230,237,TCF
+Wheat,15,147,Namibia,115,120,125,TCF
+Wheat,15,149,Nepal,95,100,105,TCF
+Wheat,15,150,Netherlands,158,165,172,OD
+Wheat,15,154,"Macedonia, FYR",224,230,236,E
+Wheat,15,155,Vanuatu,194,204,214,E
+Wheat,15,156,New Zealand,112,120,128,TCF
+Wheat,15,157,Nicaragua,89,95,101,E
+Wheat,15,158,Niger,92,100,108,E
+Wheat,15,159,Nigeria,74,79,84,E
+Wheat,15,162,Norway,154,164,174,E
+Wheat,15,165,Pakistan,143,150,157,OD
+Wheat,15,166,Panama,60,68,76,E
+Wheat,15,167,Czech Republic,195,200,205,TCF
+Wheat,15,168,Papua New Guinea,184,194,204,E
+Wheat,15,169,Paraguay,117,121,125,E
+Wheat,15,170,Peru,136,140,144,OD
+Wheat,15,171,Philippines,118,125,132,E
+Wheat,15,173,Poland,249,255,261,TCF
+Wheat,15,174,Portugal,183,189,195,E
+Wheat,15,175,Guinea-Bissau,68,73,78,E
+Wheat,15,176,Timor-Leste,146,152,158,E
+Wheat,15,178,Eritrea,123,130,137,TCF
+Wheat,15,179,Qatar,33,49,65,E
+Wheat,15,180,Palau,150,160,170,E
+Wheat,15,181,Zimbabwe,95,100,105,TCF
+Wheat,15,183,Romania,264,270,276,TCF
+Wheat,15,184,Rwanda,94,98,102,E
+Wheat,15,185,Russian Federation,244,257,270,E
+Wheat,15,188,St. Kitts and Nevis,76,81,86,E
+Wheat,15,189,St. Lucia,78,83,88,E
+Wheat,15,191,St. Vincent and the Grenadines,90,95,100,E
+Wheat,15,193,Sao Tome and Principe,60,67,74,E
+Wheat,15,194,Saudi Arabia,128,136,144,E
+Wheat,15,195,Senegal,79,85,91,E
+Wheat,15,196,Seychelles,26,33,40,E
+Wheat,15,197,Sierra Leone,50,58,66,E
+Wheat,15,198,Slovenia,188,193,198,E
+Wheat,15,199,Slovak Republic,244,250,256,TCF
+Wheat,15,200,Singapore,24,36,48,E
+Wheat,15,202,South Africa,115,120,125,TCF
+Wheat,15,203,Spain,181,187,193,E
+Wheat,15,206,Sudan,84,91,98,E
+Wheat,15,207,Suriname,81,87,93,E
+Wheat,15,208,Tajikistan,193,200,207,OD
+Wheat,15,209,Swaziland,94,98,102,E
+Wheat,15,210,Sweden,183,190,197,OD
+Wheat,15,211,Switzerland,199,208,217,TCF
+Wheat,15,212,the Syrian Arab Republic,244,250,256,TCF
+Wheat,15,213,Turkmenistan,184,191,198,E
+Wheat,15,215,Tanzania,96,100,104,CS
+Wheat,15,216,Thailand,129,134,139,E
+Wheat,15,217,Togo,76,81,86,E
+Wheat,15,219,Tonga,204,214,224,E
+Wheat,15,220,Trinidad and Tobago,67,73,79,E
+Wheat,15,221,Oman,131,140,149,E
+Wheat,15,222,Tunisia,96,103,110,E
+Wheat,15,223,Turkey,195,200,205,OD
+Wheat,15,225,United Arab Emirates,105,115,125,E
+Wheat,15,226,Uganda,95,99,103,CS
+Wheat,15,229,United Kingdom,173,180,187,TCF
+Wheat,15,230,Ukraine,234,241,248,E
+Wheat,15,231,United States,82,92,102,TCF
+Wheat,15,233,Burkina Faso,78,84,90,E
+Wheat,15,234,Uruguay,112,116,120,E
+Wheat,15,235,Uzbekistan,242,250,258,OD
+Wheat,15,236,"Venezuela, RB",95,100,105,OD
+Wheat,15,237,Vietnam,141,146,151,E
+Wheat,15,238,Ethiopia,145,150,155,TCF
+Wheat,15,244,Samoa,175,185,195,E
+Wheat,15,249,"Yemen, Rep.",170,179,188,E
+Wheat,15,250,"Congo, Dem. Rep.",77,82,87,E
+Wheat,15,251,Zambia,91,95,99,E
+Wheat,15,255,Belgium,174,180,186,E
+Wheat,15,256,Luxembourg,87,102,117,E
+Wheat,15,272,Serbia,264,270,276,OD
+Wheat,15,273,Montenegro,212,218,224,E
+Maize,56,1,Armenia,43,50,57,TCF
+Maize,56,2,Afghanistan,29,36,43,E
+Maize,56,3,Albania,30,36,42,E
+Maize,56,4,Algeria,19,27,35,E
+Maize,56,7,Angola,16,20,24,OD
+Maize,56,8,Antigua and Barbuda,13,19,25,E
+Maize,56,9,Argentina,29,32,35,E
+Maize,56,10,Australia,14,18,22,OD
+Maize,56,11,Austria,23,30,37,E
+Maize,56,12,"Bahamas, The",14,20,26,E
+Maize,56,13,Bahrain,19,27,35,E
+Maize,56,16,Bangladesh,17,24,31,E
+Maize,56,18,Bhutan,23,30,37,E
+Maize,56,19,Bolivia,27,30,33,OD
+Maize,56,20,Botswana,20,26,32,E
+Maize,56,21,Brazil,19,23,27,E
+Maize,56,23,Belize,17,22,27,E
+Maize,56,25,Solomon Islands,17,27,37,E
+Maize,56,26,Brunei Darussalam,7,11,15,E
+Maize,56,27,Bulgaria,30,36,42,E
+Maize,56,28,Myanmar,11,15,19,TCF
+Maize,56,29,Burundi,24,28,32,E
+Maize,56,32,Cameroon,15,20,25,OD
+Maize,56,33,Canada,20,23,26,TCF
+Maize,56,35,Cape Verde,24,29,34,E
+Maize,56,37,Central African Republic,25,30,35,OD
+Maize,56,38,Sri Lanka,21,27,33,E
+Maize,56,39,Chad,20,27,34,E
+Maize,56,40,Chile,29,32,35,E
+Maize,56,41,China,28,36,44,E
+Maize,56,44,Colombia,12,19,26,E
+Maize,56,45,Comoros,18,23,28,E
+Maize,56,46,"Congo, Rep.",18,23,28,E
+Maize,56,48,Costa Rica,10,18,26,E
+Maize,56,50,Cyprus,22,28,34,E
+Maize,56,52,Azerbaijan,24,30,36,OD
+Maize,56,53,Benin,20,25,30,E
+Maize,56,54,Denmark,24,31,38,E
+Maize,56,55,Dominica,14,18,22,E
+Maize,56,56,Dominican Republic,16,20,24,OD
+Maize,56,57,Belarus,31,37,43,E
+Maize,56,58,Ecuador,19,24,29,E
+Maize,56,59,"Egypt, Arab Rep.",21,28,35,E
+Maize,56,60,El Salvador,20,24,28,E
+Maize,56,61,Equatorial Guinea,11,15,19,E
+Maize,56,63,Estonia,30,36,42,E
+Maize,56,66,Fiji,19,29,39,E
+Maize,56,67,Finland,27,34,41,E
+Maize,56,68,France,25,31,37,E
+Maize,56,73,Georgia,32,40,48,TCF
+Maize,56,74,Gabon,14,20,26,E
+Maize,56,75,"Gambia, The",24,30,36,TCF
+Maize,56,79,Germany,25,31,37,TCF
+Maize,56,80,Bosnia and Herzegovina,30,36,42,E
+Maize,56,81,Ghana,19,24,29,E
+Maize,56,83,Kiribati,21,35,49,E
+Maize,56,84,Greece,26,32,38,E
+Maize,56,86,Grenada,19,24,29,E
+Maize,56,89,Guatemala,14,21,28,E
+Maize,56,90,Guinea,17,23,29,E
+Maize,56,91,Guyana,16,22,28,E
+Maize,56,93,Haiti,21,26,31,E
+Maize,56,95,Honduras,14,19,24,OD
+Maize,56,97,Hungary,30,35,40,E
+Maize,56,98,Croatia,28,33,38,E
+Maize,56,99,Iceland,27,34,41,E
+Maize,56,100,India,15,20,25,OD
+Maize,56,101,Indonesia,16,23,30,E
+Maize,56,102,Iran (Islamic Republic of),24,31,38,TCF
+Maize,56,103,Iraq,26,33,40,E
+Maize,56,104,Ireland,23,30,37,E
+Maize,56,105,Israel,22,28,34,E
+Maize,56,106,Italy,14,20,26,OD
+Maize,56,107,Cote d'Ivoire,19,24,29,E
+Maize,56,108,Kazakhstan,25,35,45,E
+Maize,56,110,Japan,16,24,32,E
+Maize,56,112,Jordan,33,40,47,TCF
+Maize,56,113,Kyrgyz Republic,31,40,49,E
+Maize,56,114,Kenya,20,25,30,OD
+Maize,56,115,Cambodia,20,26,32,E
+Maize,56,117,"Korea, Rep.",16,25,34,TCF
+Maize,56,118,Kuwait,28,37,46,TCF
+Maize,56,119,Latvia,31,37,43,E
+Maize,56,120,Lao PDR,23,28,33,E
+Maize,56,121,Lebanon,28,32,36,E
+Maize,56,122,Lesotho,11,15,19,TCF
+Maize,56,123,Liberia,12,20,28,E
+Maize,56,124,Libya,19,26,33,E
+Maize,56,126,Lithuania,30,36,42,E
+Maize,56,129,Madagascar,25,30,35,OD
+Maize,56,130,Malawi,23,27,31,E
+Maize,56,131,Malaysia,15,19,24,E
+Maize,56,132,Maldives,18,24,30,E
+Maize,56,133,Mali,19,26,33,E
+Maize,56,134,Malta,24,32,40,E
+Maize,56,136,Mauritania,19,27,35,E
+Maize,56,137,Mauritius,7,11,15,TCF
+Maize,56,138,Mexico,21,25,29,OD
+Maize,56,141,Mongolia,35,39,43,E
+Maize,56,143,Morocco,34,40,46,OD
+Maize,56,144,Mozambique,16,21,26,OD
+Maize,56,145,"Micronesia, Fed. Sts.",14,25,36,E
+Maize,56,146,Moldova,32,39,46,E
+Maize,56,147,Namibia,20,25,30,OD
+Maize,56,149,Nepal,29,34,39,E
+Maize,56,150,Netherlands,23,30,37,E
+Maize,56,154,"Macedonia, FYR",31,37,43,E
+Maize,56,155,Vanuatu,19,29,39,E
+Maize,56,156,New Zealand,10,18,26,TCF
+Maize,56,157,Nicaragua,16,22,28,E
+Maize,56,158,Niger,19,27,35,E
+Maize,56,159,Nigeria,19,24,29,E
+Maize,56,162,Norway,18,28,38,E
+Maize,56,165,Pakistan,27,34,41,E
+Maize,56,166,Panama,12,16,19,OD
+Maize,56,167,Czech Republic,29,34,39,E
+Maize,56,168,Papua New Guinea,17,27,37,E
+Maize,56,169,Paraguay,23,27,31,E
+Maize,56,170,Peru,76,80,84,OD
+Maize,56,171,Philippines,16,23,30,E
+Maize,56,173,Poland,60,66,72,TCF
+Maize,56,174,Portugal,26,32,38,E
+Maize,56,175,Guinea-Bissau,20,25,30,OD
+Maize,56,176,Timor-Leste,23,29,35,E
+Maize,56,178,Eritrea,21,28,35,TCF
+Maize,56,179,Qatar,10,14,18,E
+Maize,56,180,Palau,12,22,32,E
+Maize,56,181,Zimbabwe,20,25,30,TCF
+Maize,56,183,Romania,19,25,31,OD
+Maize,56,184,Rwanda,26,30,34,OD
+Maize,56,185,Russian Federation,26,39,52,E
+Maize,56,188,St. Kitts and Nevis,16,21,26,E
+Maize,56,189,St. Lucia,16,21,26,E
+Maize,56,191,St. Vincent and the Grenadines,19,24,29,E
+Maize,56,193,Sao Tome and Principe,14,21,28,E
+Maize,56,194,Saudi Arabia,24,27,30,E
+Maize,56,195,Senegal,14,18,22,OD
+Maize,56,196,Seychelles,14,17,20,E
+Maize,56,197,Sierra Leone,15,19,23,E
+Maize,56,198,Slovenia,26,31,36,E
+Maize,56,199,Slovak Republic,34,40,46,TCF
+Maize,56,202,South Africa,23,28,33,E
+Maize,56,203,Spain,26,32,38,E
+Maize,56,206,Sudan,20,27,34,E
+Maize,56,207,Suriname,15,21,27,E
+Maize,56,208,Tajikistan,32,39,46,E
+Maize,56,209,Swaziland,23,27,31,E
+Maize,56,210,Sweden,26,33,40,E
+Maize,56,211,Switzerland,22,31,40,OD
+Maize,56,212,the Syrian Arab Republic,29,35,41,TCF
+Maize,56,213,Turkmenistan,27,34,41,E
+Maize,56,215,Tanzania,21,25,29,CS
+Maize,56,216,Thailand,21,26,31,E
+Maize,56,217,Togo,20,25,30,E
+Maize,56,219,Tonga,22,32,42,E
+Maize,56,220,Trinidad and Tobago,14,20,26,E
+Maize,56,221,Oman,23,29,35,E
+Maize,56,222,Tunisia,21,28,35,E
+Maize,56,223,Turkey,28,33,38,E
+Maize,56,225,United Arab Emirates,20,24,28,E
+Maize,56,226,Uganda,21,25,29,TCF
+Maize,56,229,United Kingdom,24,31,38,E
+Maize,56,230,Ukraine,31,38,45,E
+Maize,56,231,United States,14,18,22,TCF
+Maize,56,233,Burkina Faso,19,25,31,E
+Maize,56,234,Uruguay,22,26,30,E
+Maize,56,235,Uzbekistan,28,36,44,E
+Maize,56,236,"Venezuela, RB",17,22,27,E
+Maize,56,237,Vietnam,22,27,32,E
+Maize,56,238,Ethiopia,22,27,32,TCF
+Maize,56,244,Samoa,16,26,36,E
+Maize,56,249,"Yemen, Rep.",25,34,43,E
+Maize,56,250,"Congo, Dem. Rep.",20,25,30,E
+Maize,56,251,Zambia,23,27,31,E
+Maize,56,255,Belgium,25,31,37,E
+Maize,56,256,Luxembourg,15,19,23,E
+Maize,56,272,Serbia,30,36,42,E
+Maize,56,273,Montenegro,29,35,41,E
+Barley,44,1,Armenia,223,230,237,TCF
+Barley,44,2,Afghanistan,144,151,158,E
+Barley,44,3,Albania,172,178,184,E
+Barley,44,4,Algeria,70,78,86,E
+Barley,44,7,Angola,96,100,104,E
+Barley,44,8,Antigua and Barbuda,95,101,107,E
+Barley,44,9,Argentina,128,131,134,E
+Barley,44,10,Australia,126,137,148,E
+Barley,44,11,Austria,155,162,169,E
+Barley,44,12,"Bahamas, The",80,86,92,E
+Barley,44,13,Bahrain,81,89,97,E
+Barley,44,16,Bangladesh,132,139,146,E
+Barley,44,18,Bhutan,161,168,175,E
+Barley,44,19,Bolivia,87,90,93,TCF
+Barley,44,20,Botswana,75,81,87,E
+Barley,44,21,Brazil,106,110,114,E
+Barley,44,23,Belize,108,113,118,E
+Barley,44,25,Solomon Islands,176,186,196,E
+Barley,44,26,Brunei Darussalam,87,98,109,E
+Barley,44,27,Bulgaria,163,169,175,E
+Barley,44,28,Myanmar,140,146,152,E
+Barley,44,29,Burundi,106,110,114,E
+Barley,44,32,Cameroon,93,98,103,E
+Barley,44,33,Canada,72,86,100,TCF
+Barley,44,35,Cape Verde,89,94,99,E
+Barley,44,37,Central African Republic,91,96,101,E
+Barley,44,38,Sri Lanka,122,128,134,E
+Barley,44,39,Chad,73,80,87,E
+Barley,44,40,Chile,141,144,147,E
+Barley,44,41,China,157,165,173,E
+Barley,44,44,Colombia,113,120,127,E
+Barley,44,45,Comoros,93,98,103,E
+Barley,44,46,"Congo, Rep.",93,98,103,E
+Barley,44,48,Costa Rica,109,117,125,E
+Barley,44,50,Cyprus,106,112,118,E
+Barley,44,52,Azerbaijan,174,180,186,TCF
+Barley,44,53,Benin,81,86,91,E
+Barley,44,54,Denmark,153,160,167,TCF
+Barley,44,55,Dominica,115,124,133,E
+Barley,44,56,Dominican Republic,108,112,116,E
+Barley,44,57,Belarus,174,180,186,E
+Barley,44,58,Ecuador,121,126,131,E
+Barley,44,59,"Egypt, Arab Rep.",75,82,89,E
+Barley,44,60,El Salvador,110,114,118,E
+Barley,44,61,Equatorial Guinea,69,78,87,E
+Barley,44,63,Estonia,172,178,184,E
+Barley,44,66,Fiji,174,184,194,E
+Barley,44,67,Finland,253,260,267,TCF
+Barley,44,68,France,149,155,161,E
+Barley,44,73,Georgia,232,240,248,TCF
+Barley,44,74,Gabon,81,87,93,E
+Barley,44,75,"Gambia, The",78,84,90,E
+Barley,44,79,Germany,144,150,156,TCF
+Barley,44,80,Bosnia and Herzegovina,176,182,188,E
+Barley,44,81,Ghana,83,88,93,E
+Barley,44,83,Kiribati,155,169,183,E
+Barley,44,84,Greece,143,149,155,E
+Barley,44,86,Grenada,99,104,109,E
+Barley,44,89,Guatemala,117,124,131,E
+Barley,44,90,Guinea,90,96,102,E
+Barley,44,91,Guyana,115,121,127,E
+Barley,44,93,Haiti,115,120,125,E
+Barley,44,95,Honduras,116,121,126,E
+Barley,44,96,"Hong Kong SAR, China",87,96,105,E
+Barley,44,97,Hungary,160,165,170,E
+Barley,44,98,Croatia,162,167,172,E
+Barley,44,99,Iceland,178,185,192,E
+Barley,44,100,India,125,130,135,E
+Barley,44,101,Indonesia,134,141,148,E
+Barley,44,102,Iran (Islamic Republic of),112,119,126,TCF
+Barley,44,103,Iraq,116,123,130,E
+Barley,44,104,Ireland,143,150,157,TCF
+Barley,44,105,Israel,103,109,115,E
+Barley,44,106,Italy,146,152,158,E
+Barley,44,107,Cote d'Ivoire,88,93,98,E
+Barley,44,108,Kazakhstan,158,168,178,TCF
+Barley,44,110,Japan,127,135,143,E
+Barley,44,112,Jordan,83,90,97,TCF
+Barley,44,113,Kyrgyz Republic,174,183,192,E
+Barley,44,114,Kenya,88,93,98,E
+Barley,44,115,Cambodia,127,133,139,E
+Barley,44,117,"Korea, Rep.",111,120,129,TCF
+Barley,44,118,Kuwait,6,9,12,TCF
+Barley,44,119,Latvia,229,235,241,TCF
+Barley,44,120,Lao PDR,135,140,145,E
+Barley,44,121,Lebanon,71,75,79,TCF
+Barley,44,122,Lesotho,56,60,64,TCF
+Barley,44,123,Liberia,96,104,112,E
+Barley,44,124,Libya,66,73,80,E
+Barley,44,126,Lithuania,170,176,182,E
+Barley,44,128,"Macao SAR, China",53,67,81,E
+Barley,44,129,Madagascar,98,103,108,E
+Barley,44,130,Malawi,100,104,108,E
+Barley,44,131,Malaysia,125,133,141,E
+Barley,44,132,Maldives,121,127,133,E
+Barley,44,133,Mali,68,75,82,E
+Barley,44,134,Malta,129,137,145,E
+Barley,44,136,Mauritania,65,73,81,E
+Barley,44,137,Mauritius,85,91,97,E
+Barley,44,138,Mexico,111,115,119,TCF
+Barley,44,141,Mongolia,167,179,191,E
+Barley,44,143,Morocco,74,80,86,TCF
+Barley,44,144,Mozambique,92,97,102,E
+Barley,44,145,"Micronesia, Fed. Sts.",171,182,193,E
+Barley,44,146,Moldova,173,180,187,E
+Barley,44,147,Namibia,90,95,100,E
+Barley,44,149,Nepal,35,40,45,TCF
+Barley,44,150,Netherlands,118,125,132,TCF
+Barley,44,154,"Macedonia, FYR",172,178,184,E
+Barley,44,155,Vanuatu,175,185,195,E
+Barley,44,156,New Zealand,122,130,138,TCF
+Barley,44,157,Nicaragua,114,120,126,E
+Barley,44,158,Niger,69,77,85,E
+Barley,44,159,Nigeria,83,88,93,E
+Barley,44,162,Norway,148,158,168,E
+Barley,44,165,Pakistan,126,133,140,E
+Barley,44,166,Panama,106,114,122,E
+Barley,44,167,Czech Republic,185,190,195,TCF
+Barley,44,168,Papua New Guinea,177,187,197,E
+Barley,44,169,Paraguay,108,112,116,E
+Barley,44,170,Peru,123,127,131,E
+Barley,44,171,Philippines,133,140,147,E
+Barley,44,173,Poland,215,221,227,TCF
+Barley,44,174,Portugal,148,154,160,E
+Barley,44,175,Guinea-Bissau,87,92,97,E
+Barley,44,176,Timor-Leste,132,138,144,E
+Barley,44,178,Eritrea,143,150,157,TCF
+Barley,44,179,Qatar,30,34,38,E
+Barley,44,180,Palau,157,167,177,E
+Barley,44,181,Zimbabwe,95,100,105,TCF
+Barley,44,183,Romania,167,173,179,E
+Barley,44,184,Rwanda,96,100,104,TCF
+Barley,44,185,Russian Federation,188,201,214,E
+Barley,44,188,St. Kitts and Nevis,101,106,111,E
+Barley,44,189,St. Lucia,104,109,114,E
+Barley,44,191,St. Vincent and the Grenadines,97,102,107,E
+Barley,44,193,Sao Tome and Principe,98,105,112,E
+Barley,44,194,Saudi Arabia,85,93,101,E
+Barley,44,195,Senegal,76,82,88,E
+Barley,44,196,Seychelles,63,70,77,E
+Barley,44,197,Sierra Leone,93,101,109,E
+Barley,44,198,Slovenia,162,167,172,E
+Barley,44,199,Slovak Republic,214,220,226,TCF
+Barley,44,200,Singapore,69,81,93,E
+Barley,44,202,South Africa,105,110,115,TCF
+Barley,44,203,Spain,142,148,154,E
+Barley,44,206,Sudan,73,80,87,E
+Barley,44,207,Suriname,109,115,121,E
+Barley,44,208,Tajikistan,172,179,186,E
+Barley,44,209,Swaziland,98,102,106,E
+Barley,44,210,Sweden,173,180,187,TCF
+Barley,44,211,Switzerland,158,167,176,TCF
+Barley,44,212,the Syrian Arab Republic,94,100,106,TCF
+Barley,44,213,Turkmenistan,127,134,141,E
+Barley,44,215,Tanzania,98,102,106,E
+Barley,44,216,Thailand,122,127,132,E
+Barley,44,217,Togo,84,89,94,E
+Barley,44,219,Tonga,165,175,185,E
+Barley,44,220,Trinidad and Tobago,86,92,98,E
+Barley,44,221,Oman,91,100,109,E
+Barley,44,222,Tunisia,80,87,94,E
+Barley,44,223,Turkey,141,146,151,E
+Barley,44,225,United Arab Emirates,67,77,87,E
+Barley,44,226,Uganda,97,101,105,E
+Barley,44,229,United Kingdom,163,170,177,TCF
+Barley,44,230,Ukraine,174,181,188,E
+Barley,44,231,United States,78,88,98,TCF
+Barley,44,233,Burkina Faso,75,81,87,E
+Barley,44,234,Uruguay,117,121,125,E
+Barley,44,235,Uzbekistan,140,148,156,E
+Barley,44,236,"Venezuela, RB",104,109,114,E
+Barley,44,237,Vietnam,132,137,142,E
+Barley,44,238,Ethiopia,85,90,95,TCF
+Barley,44,244,Samoa,168,178,188,E
+Barley,44,249,"Yemen, Rep.",119,128,137,E
+Barley,44,250,"Congo, Dem. Rep.",97,102,107,E
+Barley,44,251,Zambia,98,102,106,E
+Barley,44,255,Belgium,149,155,161,E
+Barley,44,256,Luxembourg,93,108,123,E
+Barley,44,272,Serbia,169,175,181,E
+Barley,44,273,Montenegro,173,179,185,E
+Beans Dry,176,1,Armenia,113,120,127,TCF
+Beans Dry,176,2,Afghanistan,92,99,106,E
+Beans Dry,176,3,Albania,101,107,113,E
+Beans Dry,176,4,Algeria,61,69,77,E
+Beans Dry,176,7,Angola,26,30,34,OD
+Beans Dry,176,8,Antigua and Barbuda,48,54,60,E
+Beans Dry,176,9,Argentina,89,92,95,E
+Beans Dry,176,10,Australia,112,123,134,E
+Beans Dry,176,11,Austria,107,114,121,E
+Beans Dry,176,12,"Bahamas, The",63,69,75,E
+Beans Dry,176,13,Bahrain,81,89,97,E
+Beans Dry,176,16,Bangladesh,33,40,47,OD
+Beans Dry,176,18,Bhutan,73,80,87,E
+Beans Dry,176,19,Bolivia,47,50,53,OD
+Beans Dry,176,20,Botswana,66,72,78,E
+Beans Dry,176,21,Brazil,57,61,65,E
+Beans Dry,176,23,Belize,48,53,58,E
+Beans Dry,176,25,Solomon Islands,63,73,83,E
+Beans Dry,176,26,Brunei Darussalam,40,51,62,E
+Beans Dry,176,27,Bulgaria,108,114,120,E
+Beans Dry,176,28,Myanmar,33,39,45,TCF
+Beans Dry,176,29,Burundi,63,67,71,E
+Beans Dry,176,32,Cameroon,47,52,57,E
+Beans Dry,176,33,Canada,94,108,122,E
+Beans Dry,176,35,Cape Verde,72,77,82,E
+Beans Dry,176,37,Central African Republic,51,56,61,E
+Beans Dry,176,38,Sri Lanka,68,74,80,E
+Beans Dry,176,39,Chad,59,66,73,E
+Beans Dry,176,40,Chile,101,104,107,E
+Beans Dry,176,41,China,93,101,109,E
+Beans Dry,176,44,Colombia,37,44,51,E
+Beans Dry,176,45,Comoros,44,49,54,E
+Beans Dry,176,46,"Congo, Rep.",48,53,58,E
+Beans Dry,176,48,Costa Rica,31,39,47,E
+Beans Dry,176,50,Cyprus,91,97,103,E
+Beans Dry,176,52,Azerbaijan,94,100,106,E
+Beans Dry,176,53,Benin,52,57,62,E
+Beans Dry,176,54,Denmark,115,122,129,E
+Beans Dry,176,55,Dominica,29,38,47,E
+Beans Dry,176,56,Dominican Republic,61,65,69,OD
+Beans Dry,176,57,Belarus,110,116,122,E
+Beans Dry,176,58,Ecuador,59,64,69,E
+Beans Dry,176,59,"Egypt, Arab Rep.",66,73,80,E
+Beans Dry,176,60,El Salvador,56,60,64,E
+Beans Dry,176,61,Equatorial Guinea,33,42,51,E
+Beans Dry,176,63,Estonia,114,120,126,E
+Beans Dry,176,66,Fiji,72,82,92,E
+Beans Dry,176,67,Finland,120,127,134,E
+Beans Dry,176,68,France,110,116,122,E
+Beans Dry,176,73,Georgia,90,98,106,E
+Beans Dry,176,74,Gabon,42,48,54,E
+Beans Dry,176,75,"Gambia, The",53,59,65,E
+Beans Dry,176,79,Germany,113,119,125,E
+Beans Dry,176,80,Bosnia and Herzegovina,101,107,113,E
+Beans Dry,176,81,Ghana,51,56,61,E
+Beans Dry,176,83,Kiribati,96,110,124,E
+Beans Dry,176,84,Greece,105,111,117,E
+Beans Dry,176,86,Grenada,61,66,71,E
+Beans Dry,176,89,Guatemala,38,45,52,E
+Beans Dry,176,90,Guinea,42,48,54,E
+Beans Dry,176,91,Guyana,43,49,55,E
+Beans Dry,176,93,Haiti,56,61,66,E
+Beans Dry,176,95,Honduras,71,76,81,OD
+Beans Dry,176,96,"Hong Kong SAR, China",51,60,69,E
+Beans Dry,176,97,Hungary,110,115,120,E
+Beans Dry,176,98,Croatia,102,107,112,E
+Beans Dry,176,99,Iceland,122,129,136,E
+Beans Dry,176,100,India,25,30,35,OD
+Beans Dry,176,101,Indonesia,46,53,60,E
+Beans Dry,176,102,Iran (Islamic Republic of),99,106,113,TCF
+Beans Dry,176,103,Iraq,82,89,96,E
+Beans Dry,176,104,Ireland,110,117,124,E
+Beans Dry,176,105,Israel,95,101,107,E
+Beans Dry,176,106,Italy,106,112,118,E
+Beans Dry,176,107,Cote d'Ivoire,48,53,58,E
+Beans Dry,176,108,Kazakhstan,128,138,148,OD
+Beans Dry,176,110,Japan,73,81,89,E
+Beans Dry,176,112,Jordan,93,100,107,E
+Beans Dry,176,113,Kyrgyz Republic,102,111,120,E
+Beans Dry,176,114,Kenya,65,70,75,E
+Beans Dry,176,115,Cambodia,61,67,73,E
+Beans Dry,176,117,"Korea, Rep.",51,60,69,TCF
+Beans Dry,176,118,Kuwait,81,90,99,E
+Beans Dry,176,119,Latvia,174,180,186,TCF
+Beans Dry,176,120,Lao PDR,67,72,77,E
+Beans Dry,176,121,Lebanon,76,80,84,OD
+Beans Dry,176,122,Lesotho,41,45,49,TCF
+Beans Dry,176,123,Liberia,28,36,44,E
+Beans Dry,176,124,Libya,67,74,81,E
+Beans Dry,176,126,Lithuania,112,118,124,E
+Beans Dry,176,128,"Macao SAR, China",50,64,78,E
+Beans Dry,176,129,Madagascar,60,65,70,OD
+Beans Dry,176,130,Malawi,58,62,66,E
+Beans Dry,176,131,Malaysia,41,49,57,E
+Beans Dry,176,132,Maldives,58,64,70,E
+Beans Dry,176,133,Mali,56,63,70,E
+Beans Dry,176,134,Malta,106,114,122,E
+Beans Dry,176,136,Mauritania,59,67,75,E
+Beans Dry,176,137,Mauritius,45,51,57,E
+Beans Dry,176,138,Mexico,46,50,54,OD
+Beans Dry,176,141,Mongolia,96,108,120,E
+Beans Dry,176,143,Morocco,44,50,56,OD
+Beans Dry,176,144,Mozambique,56,61,66,E
+Beans Dry,176,145,"Micronesia, Fed. Sts.",55,66,77,E
+Beans Dry,176,146,Moldova,106,113,120,E
+Beans Dry,176,147,Namibia,73,78,83,E
+Beans Dry,176,149,Nepal,85,90,95,E
+Beans Dry,176,150,Netherlands,143,150,157,OD
+Beans Dry,176,154,"Macedonia, FYR",109,115,121,E
+Beans Dry,176,155,Vanuatu,73,83,93,E
+Beans Dry,176,156,New Zealand,102,110,118,TCF
+Beans Dry,176,157,Nicaragua,43,49,55,E
+Beans Dry,176,158,Niger,58,66,74,E
+Beans Dry,176,159,Nigeria,51,56,61,E
+Beans Dry,176,162,Norway,114,124,134,E
+Beans Dry,176,165,Pakistan,87,94,101,E
+Beans Dry,176,166,Panama,20,28,36,OD
+Beans Dry,176,167,Czech Republic,175,180,185,TCF
+Beans Dry,176,168,Papua New Guinea,62,72,82,E
+Beans Dry,176,169,Paraguay,67,71,75,E
+Beans Dry,176,170,Peru,86,90,94,OD
+Beans Dry,176,171,Philippines,6,8,10,TCF
+Beans Dry,176,173,Poland,113,119,125,E
+Beans Dry,176,174,Portugal,106,112,118,E
+Beans Dry,176,175,Guinea-Bissau,43,48,53,E
+Beans Dry,176,176,Timor-Leste,73,79,85,E
+Beans Dry,176,178,Eritrea,64,71,78,E
+Beans Dry,176,179,Qatar,81,97,113,E
+Beans Dry,176,180,Palau,57,67,77,E
+Beans Dry,176,181,Zimbabwe,85,90,95,OD
+Beans Dry,176,183,Romania,94,100,106,OD
+Beans Dry,176,184,Rwanda,66,70,74,TCF
+Beans Dry,176,185,Russian Federation,112,125,138,E
+Beans Dry,176,188,St. Kitts and Nevis,53,58,63,E
+Beans Dry,176,189,St. Lucia,45,50,55,E
+Beans Dry,176,191,St. Vincent and the Grenadines,58,63,68,E
+Beans Dry,176,193,Sao Tome and Principe,34,41,48,E
+Beans Dry,176,194,Saudi Arabia,88,96,104,E
+Beans Dry,176,195,Senegal,55,61,67,E
+Beans Dry,176,196,Seychelles,44,51,58,E
+Beans Dry,176,197,Sierra Leone,25,33,41,E
+Beans Dry,176,198,Slovenia,101,106,111,E
+Beans Dry,176,199,Slovak Republic,114,120,126,TCF
+Beans Dry,176,200,Singapore,51,63,75,E
+Beans Dry,176,202,South Africa,60,65,70,TCF
+Beans Dry,176,203,Spain,104,110,116,OD
+Beans Dry,176,206,Sudan,59,66,73,E
+Beans Dry,176,207,Suriname,44,50,56,E
+Beans Dry,176,208,Tajikistan,102,109,116,E
+Beans Dry,176,209,Swaziland,65,69,73,E
+Beans Dry,176,210,Sweden,120,127,134,E
+Beans Dry,176,211,Switzerland,121,130,139,OD
+Beans Dry,176,212,the Syrian Arab Republic,114,120,126,TCF
+Beans Dry,176,213,Turkmenistan,89,96,103,E
+Beans Dry,176,215,Tanzania,62,66,70,E
+Beans Dry,176,216,Thailand,66,71,76,E
+Beans Dry,176,217,Togo,51,56,61,E
+Beans Dry,176,219,Tonga,85,95,105,E
+Beans Dry,176,220,Trinidad and Tobago,59,65,71,E
+Beans Dry,176,221,Oman,92,101,110,E
+Beans Dry,176,222,Tunisia,65,72,79,E
+Beans Dry,176,223,Turkey,96,101,106,E
+Beans Dry,176,225,United Arab Emirates,86,96,106,E
+Beans Dry,176,226,Uganda,58,62,66,CS
+Beans Dry,176,229,United Kingdom,108,115,122,E
+Beans Dry,176,230,Ukraine,106,113,120,E
+Beans Dry,176,231,United States,40,50,60,TCF
+Beans Dry,176,233,Burkina Faso,53,59,65,E
+Beans Dry,176,234,Uruguay,68,72,76,E
+Beans Dry,176,235,Uzbekistan,89,97,105,E
+Beans Dry,176,236,"Venezuela, RB",54,59,64,E
+Beans Dry,176,237,Vietnam,64,69,74,E
+Beans Dry,176,238,Ethiopia,100,105,110,TCF
+Beans Dry,176,244,Samoa,59,69,79,E
+Beans Dry,176,249,"Yemen, Rep.",91,100,109,E
+Beans Dry,176,250,"Congo, Dem. Rep.",51,56,61,E
+Beans Dry,176,251,Zambia,60,64,68,E
+Beans Dry,176,255,Belgium,111,117,123,E
+Beans Dry,176,256,Luxembourg,106,121,136,E
+Beans Dry,176,272,Serbia,106,112,118,E
+Beans Dry,176,273,Montenegro,101,107,113,E
+Potatoes,116,1,Armenia,3993,4000,4007,TCF
+Potatoes,116,2,Afghanistan,3243,3250,3257,TCF
+Potatoes,116,3,Albania,2816,2822,2828,E
+Potatoes,116,4,Algeria,1939,1947,1955,E
+Potatoes,116,7,Angola,1687,1691,1695,E
+Potatoes,116,8,Antigua and Barbuda,1888,1894,1900,E
+Potatoes,116,9,Argentina,2117,2120,2123,E
+Potatoes,116,10,Australia,3184,3195,3206,E
+Potatoes,116,11,Austria,2735,2742,2749,E
+Potatoes,116,12,"Bahamas, The",2015,2021,2027,E
+Potatoes,116,13,Bahrain,2651,2659,2667,E
+Potatoes,116,16,Bangladesh,2266,2273,2280,E
+Potatoes,116,18,Bhutan,2310,2317,2324,E
+Potatoes,116,19,Bolivia,1377,1380,1383,TCF
+Potatoes,116,20,Botswana,1820,1826,1832,E
+Potatoes,116,21,Brazil,1927,1931,1935,E
+Potatoes,116,23,Belize,1924,1929,1934,E
+Potatoes,116,25,Solomon Islands,2811,2821,2831,E
+Potatoes,116,26,Brunei Darussalam,2065,2076,2087,E
+Potatoes,116,27,Bulgaria,2883,2889,2895,E
+Potatoes,116,28,Myanmar,1608,1614,1620,TCF
+Potatoes,116,29,Burundi,1633,1637,1641,E
+Potatoes,116,32,Cameroon,1624,1629,1634,E
+Potatoes,116,33,Canada,2226,2240,2254,TCF
+Potatoes,116,35,Cape Verde,1763,1768,1773,E
+Potatoes,116,37,Central African Republic,1995,2000,2005,TCF
+Potatoes,116,38,Sri Lanka,2319,2325,2331,E
+Potatoes,116,39,Chad,1837,1844,1851,E
+Potatoes,116,40,Chile,2017,2020,2023,E
+Potatoes,116,41,China,2567,2575,2583,E
+Potatoes,116,44,Colombia,1792,1799,1806,E
+Potatoes,116,45,Comoros,1618,1623,1628,E
+Potatoes,116,46,"Congo, Rep.",1609,1614,1619,E
+Potatoes,116,48,Costa Rica,2492,2500,2508,TCF
+Potatoes,116,50,Cyprus,2532,2538,2544,E
+Potatoes,116,52,Azerbaijan,2589,2595,2601,E
+Potatoes,116,53,Benin,1712,1717,1722,E
+Potatoes,116,54,Denmark,2785,2792,2799,E
+Potatoes,116,55,Dominica,1750,1759,1768,E
+Potatoes,116,56,Dominican Republic,1629,1633,1637,TCF
+Potatoes,116,57,Belarus,2880,2886,2892,E
+Potatoes,116,58,Ecuador,1879,1884,1889,E
+Potatoes,116,59,"Egypt, Arab Rep.",1912,1919,1926,E
+Potatoes,116,60,El Salvador,2138,2142,2146,TCF
+Potatoes,116,61,Equatorial Guinea,1493,1502,1511,E
+Potatoes,116,63,Estonia,2845,2851,2857,E
+Potatoes,116,66,Fiji,2884,2894,2904,E
+Potatoes,116,67,Finland,2852,2859,2866,E
+Potatoes,116,68,France,2769,2775,2781,E
+Potatoes,116,73,Georgia,2492,2500,2508,TCF
+Potatoes,116,74,Gabon,1573,1579,1585,E
+Potatoes,116,75,"Gambia, The",1733,1739,1745,E
+Potatoes,116,79,Germany,2244,2250,2256,TCF
+Potatoes,116,80,Bosnia and Herzegovina,2809,2815,2821,E
+Potatoes,116,81,Ghana,1690,1695,1700,E
+Potatoes,116,83,Kiribati,3051,3065,3079,E
+Potatoes,116,84,Greece,2851,2857,2863,E
+Potatoes,116,86,Grenada,1983,1988,1993,E
+Potatoes,116,89,Guatemala,1842,1849,1856,E
+Potatoes,116,90,Guinea,1626,1632,1638,E
+Potatoes,116,91,Guyana,1855,1861,1867,E
+Potatoes,116,93,Haiti,1959,1964,1969,E
+Potatoes,116,95,Honduras,1904,1909,1914,TCF
+Potatoes,116,96,"Hong Kong SAR, China",2267,2276,2285,E
+Potatoes,116,97,Hungary,2870,2875,2880,E
+Potatoes,116,98,Croatia,2809,2814,2819,E
+Potatoes,116,99,Iceland,2664,2671,2678,E
+Potatoes,116,100,India,2995,3000,3005,TCF
+Potatoes,116,101,Indonesia,2147,2154,2161,E
+Potatoes,116,102,Iran (Islamic Republic of),2283,2290,2297,TCF
+Potatoes,116,103,Iraq,2665,2672,2679,E
+Potatoes,116,104,Ireland,3128,3135,3142,TCF
+Potatoes,116,105,Israel,2540,2546,2552,E
+Potatoes,116,106,Italy,2793,2799,2805,E
+Potatoes,116,107,Cote d'Ivoire,1650,1655,1660,E
+Potatoes,116,108,Kazakhstan,2043,2053,2063,TCF
+Potatoes,116,110,Japan,2398,2406,2414,E
+Potatoes,116,112,Jordan,2493,2500,2507,TCF
+Potatoes,116,113,Kyrgyz Republic,2576,2585,2594,E
+Potatoes,116,114,Kenya,1726,1731,1736,E
+Potatoes,116,115,Cambodia,2290,2296,2302,E
+Potatoes,116,117,"Korea, Rep.",1491,1500,1509,TCF
+Potatoes,116,118,Kuwait,2652,2661,2670,E
+Potatoes,116,119,Latvia,3994,4000,4006,TCF
+Potatoes,116,120,Lao PDR,2325,2330,2335,E
+Potatoes,116,121,Lebanon,1896,1900,1904,TCF
+Potatoes,116,122,Lesotho,1696,1700,1704,TCF
+Potatoes,116,123,Liberia,1517,1525,1533,E
+Potatoes,116,124,Libya,1907,1914,1921,E
+Potatoes,116,126,Lithuania,2851,2857,2863,E
+Potatoes,116,128,"Macao SAR, China",2249,2263,2277,E
+Potatoes,116,129,Madagascar,1495,1500,1505,TCF
+Potatoes,116,130,Malawi,1692,1696,1700,E
+Potatoes,116,131,Malaysia,2099,2107,2115,E
+Potatoes,116,132,Maldives,2243,2249,2255,E
+Potatoes,116,133,Mali,1863,1870,1877,E
+Potatoes,116,134,Malta,2853,2861,2869,E
+Potatoes,116,136,Mauritania,1902,1910,1918,E
+Potatoes,116,137,Mauritius,2744,2750,2756,TCF
+Potatoes,116,138,Mexico,2996,3000,3004,TCF
+Potatoes,116,141,Mongolia,2681,2693,2705,E
+Potatoes,116,143,Morocco,1857,1863,1869,E
+Potatoes,116,144,Mozambique,1715,1720,1725,E
+Potatoes,116,145,"Micronesia, Fed. Sts.",2781,2792,2803,E
+Potatoes,116,146,Moldova,2921,2928,2935,E
+Potatoes,116,147,Namibia,1807,1812,1817,E
+Potatoes,116,149,Nepal,995,1000,1005,TCF
+Potatoes,116,150,Netherlands,2756,2763,2770,E
+Potatoes,116,154,"Macedonia, FYR",2859,2865,2871,E
+Potatoes,116,155,Vanuatu,2878,2888,2898,E
+Potatoes,116,156,New Zealand,3492,3500,3508,TCF
+Potatoes,116,157,Nicaragua,1865,1871,1877,E
+Potatoes,116,158,Niger,1890,1898,1906,E
+Potatoes,116,159,Nigeria,1696,1701,1706,E
+Potatoes,116,162,Norway,2709,2719,2729,E
+Potatoes,116,165,Pakistan,2608,2615,2622,E
+Potatoes,116,166,Panama,1580,1588,1596,TCF
+Potatoes,116,167,Czech Republic,3295,3300,3305,TCF
+Potatoes,116,168,Papua New Guinea,2805,2815,2825,E
+Potatoes,116,169,Paraguay,2072,2076,2080,E
+Potatoes,116,170,Peru,1596,1600,1604,TCF
+Potatoes,116,171,Philippines,2243,2250,2257,TCF
+Potatoes,116,173,Poland,2333,2339,2345,TCF
+Potatoes,116,174,Portugal,2773,2779,2785,E
+Potatoes,116,175,Guinea-Bissau,1645,1650,1655,E
+Potatoes,116,176,Timor-Leste,2316,2322,2328,E
+Potatoes,116,178,Eritrea,1993,2000,2007,TCF
+Potatoes,116,179,Qatar,2583,2599,2615,E
+Potatoes,116,180,Palau,2773,2783,2793,E
+Potatoes,116,181,Zimbabwe,1769,1774,1779,E
+Potatoes,116,183,Romania,3794,3800,3806,TCF
+Potatoes,116,184,Rwanda,1618,1622,1626,E
+Potatoes,116,185,Russian Federation,2976,2989,3002,E
+Potatoes,116,188,St. Kitts and Nevis,1900,1905,1910,E
+Potatoes,116,189,St. Lucia,1884,1889,1894,E
+Potatoes,116,191,St. Vincent and the Grenadines,1978,1983,1988,E
+Potatoes,116,193,Sao Tome and Principe,1535,1542,1549,E
+Potatoes,116,194,Saudi Arabia,2601,2609,2617,E
+Potatoes,116,195,Senegal,1762,1768,1774,E
+Potatoes,116,196,Seychelles,1594,1601,1608,E
+Potatoes,116,197,Sierra Leone,1516,1524,1532,E
+Potatoes,116,198,Slovenia,2763,2768,2773,E
+Potatoes,116,199,Slovak Republic,3294,3300,3306,TCF
+Potatoes,116,200,Singapore,2148,2160,2172,E
+Potatoes,116,202,South Africa,1791,1796,1801,E
+Potatoes,116,203,Spain,1844,1850,1856,TCF
+Potatoes,116,206,Sudan,1810,1817,1824,E
+Potatoes,116,206,Sudan,1810,1817,1824,E
+Potatoes,116,207,Suriname,1859,1865,1871,E
+Potatoes,116,208,Tajikistan,2553,2560,2567,E
+Potatoes,116,209,Swaziland,1732,1736,1740,E
+Potatoes,116,210,Sweden,1793,1800,1807,TCF
+Potatoes,116,211,Switzerland,2571,2580,2589,TCF
+Potatoes,116,212,the Syrian Arab Republic,2994,3000,3006,TCF
+Potatoes,116,213,Turkmenistan,2293,2300,2307,TCF
+Potatoes,116,215,Tanzania,796,800,804,TCF
+Potatoes,116,216,Thailand,2316,2321,2326,E
+Potatoes,116,217,Togo,1697,1702,1707,E
+Potatoes,116,219,Tonga,2978,2988,2998,E
+Potatoes,116,220,Trinidad and Tobago,1940,1946,1952,E
+Potatoes,116,221,Oman,2534,2543,2552,E
+Potatoes,116,222,Tunisia,1891,1898,1905,E
+Potatoes,116,223,Turkey,2535,2540,2545,E
+Potatoes,116,225,United Arab Emirates,2590,2600,2610,E
+Potatoes,116,226,Uganda,984,988,992,TCF
+Potatoes,116,229,United Kingdom,3089,3096,3103,TCF
+Potatoes,116,230,Ukraine,2911,2918,2925,E
+Potatoes,116,231,United States,2365,2375,2385,TCF
+Potatoes,116,233,Burkina Faso,1763,1769,1775,E
+Potatoes,116,234,Uruguay,2030,2034,2038,E
+Potatoes,116,235,Uzbekistan,2666,2674,2682,E
+Potatoes,116,236,"Venezuela, RB",1901,1906,1911,E
+Potatoes,116,237,Vietnam,2325,2330,2335,E
+Potatoes,116,238,Ethiopia,1895,1900,1905,TCF
+Potatoes,116,244,Samoa,2818,2828,2838,E
+Potatoes,116,249,"Yemen, Rep.",2534,2543,2552,E
+Potatoes,116,250,"Congo, Dem. Rep.",1613,1618,1623,E
+Potatoes,116,251,Zambia,1708,1712,1716,E
+Potatoes,116,255,Belgium,2756,2762,2768,E
+Potatoes,116,256,Luxembourg,2709,2724,2739,E
+Potatoes,116,272,Serbia,2867,2873,2879,E
+Potatoes,116,273,Montenegro,2795,2801,2807,E
+Potatoes,116,276,Sudan,1810,1817,1824,E
+Rice Paddy,27,1,Armenia,174,181,188,E
+Rice Paddy,27,2,Afghanistan,156,163,170,E
+Rice Paddy,27,3,Albania,158,164,170,E
+Rice Paddy,27,4,Algeria,116,124,132,E
+Rice Paddy,27,7,Angola,72,76,80,E
+Rice Paddy,27,9,Argentina,116,119,122,E
+Rice Paddy,27,10,Australia,143,154,165,E
+Rice Paddy,27,12,"Bahamas, The",97,103,109,E
+Rice Paddy,27,13,Bahrain,138,146,154,E
+Rice Paddy,27,16,Bangladesh,115,122,129,E
+Rice Paddy,27,18,Bhutan,134,141,148,E
+Rice Paddy,27,19,Bolivia,42,45,48,TCF
+Rice Paddy,27,20,Botswana,96,102,108,E
+Rice Paddy,27,21,Brazil,80,84,88,E
+Rice Paddy,27,26,Brunei Darussalam,103,114,125,E
+Rice Paddy,27,27,Bulgaria,167,173,179,E
+Rice Paddy,27,28,Myanmar,97,103,109,TCF
+Rice Paddy,27,29,Burundi,60,64,68,E
+Rice Paddy,27,32,Cameroon,30,35,40,TCF
+Rice Paddy,27,35,Cape Verde,65,70,75,E
+Rice Paddy,27,37,Central African Republic,75,80,85,TCF
+Rice Paddy,27,38,Sri Lanka,83,89,95,E
+Rice Paddy,27,39,Chad,65,72,79,TCF
+Rice Paddy,27,40,Chile,109,112,115,E
+Rice Paddy,27,41,China,178,186,194,E
+Rice Paddy,27,44,Colombia,80,87,94,E
+Rice Paddy,27,45,Comoros,67,72,77,E
+Rice Paddy,27,46,"Congo, Rep.",64,69,74,E
+Rice Paddy,27,48,Costa Rica,130,138,146,TCF
+Rice Paddy,27,50,Cyprus,142,148,154,E
+Rice Paddy,27,52,Azerbaijan,168,174,180,E
+Rice Paddy,27,53,Benin,64,69,74,E
+Rice Paddy,27,55,Dominica,88,97,106,E
+Rice Paddy,27,56,Dominican Republic,136,140,144,TCF
+Rice Paddy,27,57,Belarus,181,187,193,E
+Rice Paddy,27,58,Ecuador,79,84,89,E
+Rice Paddy,27,59,"Egypt, Arab Rep.",103,110,117,E
+Rice Paddy,27,60,El Salvador,78,82,86,E
+Rice Paddy,27,61,Equatorial Guinea,76,85,94,E
+Rice Paddy,27,68,France,117,123,129,TCF
+Rice Paddy,27,73,Georgia,168,176,184,E
+Rice Paddy,27,74,Gabon,71,77,83,E
+Rice Paddy,27,75,"Gambia, The",65,71,77,E
+Rice Paddy,27,80,Bosnia and Herzegovina,163,169,175,E
+Rice Paddy,27,81,Ghana,63,68,73,E
+Rice Paddy,27,84,Greece,156,162,168,E
+Rice Paddy,27,89,Guatemala,86,93,100,E
+Rice Paddy,27,90,Guinea,68,74,80,E
+Rice Paddy,27,93,Haiti,79,84,89,E
+Rice Paddy,27,95,Honduras,58,63,68,TCF
+Rice Paddy,27,97,Hungary,211,216,221,TCF
+Rice Paddy,27,98,Croatia,166,171,176,E
+Rice Paddy,27,100,India,25,30,35,TCF
+Rice Paddy,27,101,Indonesia,85,92,99,E
+Rice Paddy,27,102,Iran (Islamic Republic of),84,91,98,TCF
+Rice Paddy,27,103,Iraq,96,103,110,TCF
+Rice Paddy,27,105,Israel,133,139,145,E
+Rice Paddy,27,106,Italy,186,192,198,TCF
+Rice Paddy,27,107,Cote d'Ivoire,64,69,74,E
+Rice Paddy,27,108,Kazakhstan,209,219,229,TCF
+Rice Paddy,27,112,Jordan,133,140,147,E
+Rice Paddy,27,113,Kyrgyz Republic,177,186,195,E
+Rice Paddy,27,114,Kenya,57,62,67,E
+Rice Paddy,27,115,Cambodia,87,93,99,E
+Rice Paddy,27,117,"Korea, Rep.",182,191,200,E
+Rice Paddy,27,118,Kuwait,160,169,178,E
+Rice Paddy,27,120,Lao PDR,55,60,65,TCF
+Rice Paddy,27,121,Lebanon,141,145,149,E
+Rice Paddy,27,122,Lesotho,98,102,106,E
+Rice Paddy,27,123,Liberia,66,74,82,E
+Rice Paddy,27,124,Libya,111,118,125,E
+Rice Paddy,27,129,Madagascar,75,80,85,TCF
+Rice Paddy,27,130,Malawi,77,81,85,E
+Rice Paddy,27,131,Malaysia,92,100,108,E
+Rice Paddy,27,132,Maldives,82,88,94,E
+Rice Paddy,27,133,Mali,80,87,94,E
+Rice Paddy,27,134,Malta,135,143,151,E
+Rice Paddy,27,136,Mauritania,85,93,101,E
+Rice Paddy,27,137,Mauritius,93,99,105,TCF
+Rice Paddy,27,138,Mexico,104,108,112,E
+Rice Paddy,27,141,Mongolia,214,226,238,E
+Rice Paddy,27,143,Morocco,169,175,181,TCF
+Rice Paddy,27,144,Mozambique,75,80,85,TCF
+Rice Paddy,27,146,Moldova,172,179,186,E
+Rice Paddy,27,147,Namibia,85,90,95,E
+Rice Paddy,27,149,Nepal,50,55,60,TCF
+Rice Paddy,27,154,"Macedonia, FYR",163,169,175,E
+Rice Paddy,27,156,New Zealand,146,154,162,E
+Rice Paddy,27,157,Nicaragua,78,84,90,E
+Rice Paddy,27,158,Niger,85,93,101,E
+Rice Paddy,27,159,Nigeria,67,72,77,E
+Rice Paddy,27,165,Pakistan,138,145,152,E
+Rice Paddy,27,166,Panama,152,160,168,TCF
+Rice Paddy,27,167,Czech Republic,169,174,179,E
+Rice Paddy,27,169,Paraguay,98,102,106,E
+Rice Paddy,27,170,Peru,71,75,79,TCF
+Rice Paddy,27,171,Philippines,68,75,82,TCF
+Rice Paddy,27,174,Portugal,172,178,184,TCF
+Rice Paddy,27,175,Guinea-Bissau,90,95,100,TCF
+Rice Paddy,27,176,Timor-Leste,79,85,91,E
+Rice Paddy,27,178,Eritrea,64,71,78,E
+Rice Paddy,27,179,Qatar,147,163,179,E
+Rice Paddy,27,181,Zimbabwe,85,90,95,TCF
+Rice Paddy,27,183,Romania,294,300,306,TCF
+Rice Paddy,27,184,Rwanda,21,25,29,TCF
+Rice Paddy,27,185,Russian Federation,243,256,269,E
+Rice Paddy,27,193,Sao Tome and Principe,69,76,83,E
+Rice Paddy,27,194,Saudi Arabia,130,138,146,E
+Rice Paddy,27,195,Senegal,104,110,116,TCF
+Rice Paddy,27,196,Seychelles,70,77,84,E
+Rice Paddy,27,197,Sierra Leone,68,76,84,E
+Rice Paddy,27,198,Slovenia,171,176,181,E
+Rice Paddy,27,199,Slovak Republic,172,178,184,E
+Rice Paddy,27,202,South Africa,96,101,106,E
+Rice Paddy,27,203,Spain,184,190,196,TCF
+Rice Paddy,27,206,Sudan,69,76,83,E
+Rice Paddy,27,207,Suriname,77,83,89,E
+Rice Paddy,27,208,Tajikistan,167,174,181,E
+Rice Paddy,27,209,Swaziland,84,88,92,E
+Rice Paddy,27,212,the Syrian Arab Republic,94,100,106,TCF
+Rice Paddy,27,213,Turkmenistan,169,176,183,E
+Rice Paddy,27,215,Tanzania,65,69,73,E
+Rice Paddy,27,216,Thailand,94,99,104,E
+Rice Paddy,27,217,Togo,64,69,74,E
+Rice Paddy,27,219,Tonga,104,114,124,E
+Rice Paddy,27,220,Trinidad and Tobago,79,85,91,E
+Rice Paddy,27,221,Oman,101,110,119,E
+Rice Paddy,27,222,Tunisia,114,121,128,E
+Rice Paddy,27,223,Turkey,160,165,170,E
+Rice Paddy,27,225,United Arab Emirates,126,136,146,E
+Rice Paddy,27,226,Uganda,70,74,78,TCF
+Rice Paddy,27,230,Ukraine,233,240,247,TCF
+Rice Paddy,27,231,United States,128,138,148,TCF
+Rice Paddy,27,233,Burkina Faso,67,73,79,E
+Rice Paddy,27,234,Uruguay,118,122,126,E
+Rice Paddy,27,235,Uzbekistan,287,295,303,TCF
+Rice Paddy,27,236,"Venezuela, RB",75,80,85,E
+Rice Paddy,27,237,Vietnam,104,109,114,E
+Rice Paddy,27,238,Ethiopia,59,64,69,E
+Rice Paddy,27,249,"Yemen, Rep.",93,102,111,E
+Rice Paddy,27,250,"Congo, Dem. Rep.",60,65,70,E
+Rice Paddy,27,251,Zambia,78,82,86,E
+Rice Paddy,27,272,Serbia,167,173,179,E
+Rice Paddy,27,273,Montenegro,165,171,177,E
+Groundnuts,242,4,Algeria,82,91,100,E
+Groundnuts,242,7,Angola,26,30,34,TCF
+Groundnuts,242,8,Antigua and Barbuda,107,113,119,E
+Groundnuts,242,9,Argentina,68,72,76,E
+Groundnuts,242,10,Australia,125,139,153,E
+Groundnuts,242,12,"Bahamas, The",119,126,133,E
+Groundnuts,242,13,Bahrain,119,128,137,E
+Groundnuts,242,16,Bangladesh,77,85,93,E
+Groundnuts,242,18,Bhutan,45,54,63,E
+Groundnuts,242,19,Bolivia,81,85,89,E
+Groundnuts,242,20,Botswana,93,99,105,E
+Groundnuts,242,21,Brazil,98,103,108,E
+Groundnuts,242,23,Belize,91,96,101,E
+Groundnuts,242,25,Solomon Islands,84,95,106,E
+Groundnuts,242,26,Brunei Darussalam,131,146,161,E
+Groundnuts,242,28,Myanmar,162,168,174,TCF
+Groundnuts,242,29,Burundi,77,81,85,E
+Groundnuts,242,32,Cameroon,84,90,96,E
+Groundnuts,242,35,Cape Verde,88,94,100,E
+Groundnuts,242,37,Central African Republic,95,100,105,TCF
+Groundnuts,242,38,Sri Lanka,99,106,113,E
+Groundnuts,242,39,Chad,93,100,107,E
+Groundnuts,242,40,Chile,63,68,73,E
+Groundnuts,242,41,China,29,42,55,E
+Groundnuts,242,44,Colombia,85,93,101,E
+Groundnuts,242,45,Comoros,83,89,95,E
+Groundnuts,242,46,"Congo, Rep.",87,92,97,E
+Groundnuts,242,48,Costa Rica,87,96,105,E
+Groundnuts,242,50,Cyprus,103,111,119,E
+Groundnuts,242,53,Benin,94,100,106,E
+Groundnuts,242,55,Dominica,78,88,98,E
+Groundnuts,242,56,Dominican Republic,90,94,98,TCF
+Groundnuts,242,58,Ecuador,84,89,94,E
+Groundnuts,242,59,"Egypt, Arab Rep.",83,91,99,E
+Groundnuts,242,60,El Salvador,93,98,103,E
+Groundnuts,242,61,Equatorial Guinea,105,116,127,E
+Groundnuts,242,66,Fiji,84,95,106,E
+Groundnuts,242,74,Gabon,96,103,110,E
+Groundnuts,242,75,"Gambia, The",119,125,131,TCF
+Groundnuts,242,81,Ghana,93,99,105,E
+Groundnuts,242,83,Kiribati,98,114,130,E
+Groundnuts,242,86,Grenada,105,110,115,E
+Groundnuts,242,89,Guatemala,79,86,93,E
+Groundnuts,242,90,Guinea,85,91,97,E
+Groundnuts,242,91,Guyana,86,92,98,E
+Groundnuts,242,93,Haiti,85,90,95,E
+Groundnuts,242,95,Honduras,58,63,68,TCF
+Groundnuts,242,100,India,87,93,99,E
+Groundnuts,242,101,Indonesia,87,94,101,E
+Groundnuts,242,102,Iran (Islamic Republic of),64,74,84,E
+Groundnuts,242,103,Iraq,75,85,95,E
+Groundnuts,242,105,Israel,108,116,124,E
+Groundnuts,242,107,Cote d'Ivoire,89,95,101,E
+Groundnuts,242,112,Jordan,76,84,92,E
+Groundnuts,242,114,Kenya,90,96,102,E
+Groundnuts,242,115,Cambodia,93,99,105,E
+Groundnuts,242,117,"Korea, Rep.",56,70,84,TCF
+Groundnuts,242,118,Kuwait,133,145,157,E
+Groundnuts,242,120,Lao PDR,45,50,55,TCF
+Groundnuts,242,121,Lebanon,43,50,57,TCF
+Groundnuts,242,122,Lesotho,51,56,61,E
+Groundnuts,242,123,Liberia,76,84,92,E
+Groundnuts,242,124,Libya,94,102,110,E
+Groundnuts,242,129,Madagascar,74,80,86,TCF
+Groundnuts,242,130,Malawi,76,81,86,E
+Groundnuts,242,131,Malaysia,96,104,112,E
+Groundnuts,242,132,Maldives,104,110,116,E
+Groundnuts,242,133,Mali,96,104,112,E
+Groundnuts,242,136,Mauritania,96,104,112,E
+Groundnuts,242,137,Mauritius,173,180,187,TCF
+Groundnuts,242,138,Mexico,96,100,104,E
+Groundnuts,242,143,Morocco,67,74,81,E
+Groundnuts,242,144,Mozambique,82,87,92,E
+Groundnuts,242,145,"Micronesia, Fed. Sts.",88,99,110,E
+Groundnuts,242,147,Namibia,82,87,92,E
+Groundnuts,242,149,Nepal,48,56,64,E
+Groundnuts,242,155,Vanuatu,83,94,105,E
+Groundnuts,242,156,New Zealand,75,87,99,E
+Groundnuts,242,157,Nicaragua,85,91,97,E
+Groundnuts,242,158,Niger,91,99,107,E
+Groundnuts,242,159,Nigeria,92,98,104,E
+Groundnuts,242,165,Pakistan,71,80,89,E
+Groundnuts,242,166,Panama,92,100,108,E
+Groundnuts,242,168,Papua New Guinea,81,92,103,E
+Groundnuts,242,169,Paraguay,88,92,96,E
+Groundnuts,242,170,Peru,46,50,54,TCF
+Groundnuts,242,171,Philippines,87,94,101,E
+Groundnuts,242,175,Guinea-Bissau,54,60,66,TCF
+Groundnuts,242,176,Timor-Leste,90,97,104,E
+Groundnuts,242,178,Eritrea,147,155,163,TCF
+Groundnuts,242,179,Qatar,176,197,218,E
+Groundnuts,242,180,Palau,106,117,128,E
+Groundnuts,242,181,Zimbabwe,35,40,45,TCF
+Groundnuts,242,184,Rwanda,73,77,81,E
+Groundnuts,242,188,St. Kitts and Nevis,102,108,114,E
+Groundnuts,242,189,St. Lucia,98,104,110,E
+Groundnuts,242,191,St. Vincent and the Grenadines,106,111,116,E
+Groundnuts,242,193,Sao Tome and Principe,74,82,90,E
+Groundnuts,242,194,Saudi Arabia,121,130,139,E
+Groundnuts,242,195,Senegal,123,130,137,TCF
+Groundnuts,242,196,Seychelles,115,123,131,E
+Groundnuts,242,197,Sierra Leone,77,86,95,E
+Groundnuts,242,200,Singapore,150,166,182,E
+Groundnuts,242,202,South Africa,78,83,88,E
+Groundnuts,242,203,Spain,150,160,170,TCF
+Groundnuts,242,206,Sudan,96,103,110,E
+Groundnuts,242,207,Suriname,92,98,104,E
+Groundnuts,242,208,Tajikistan,19,31,43,E
+Groundnuts,242,209,Swaziland,78,82,86,E
+Groundnuts,242,212,the Syrian Arab Republic,41,50,59,TCF
+Groundnuts,242,213,Turkmenistan,61,72,83,E
+Groundnuts,242,215,Tanzania,82,87,92,E
+Groundnuts,242,216,Thailand,100,105,110,E
+Groundnuts,242,217,Togo,92,98,104,E
+Groundnuts,242,219,Tonga,92,104,116,E
+Groundnuts,242,220,Trinidad and Tobago,118,125,132,E
+Groundnuts,242,221,Oman,121,132,143,E
+Groundnuts,242,222,Tunisia,76,84,92,E
+Groundnuts,242,223,Turkey,61,70,79,E
+Groundnuts,242,225,United Arab Emirates,137,149,161,E
+Groundnuts,242,226,Uganda,84,89,94,E
+Groundnuts,242,231,United States,70,86,102,E
+Groundnuts,242,233,Burkina Faso,96,103,110,E
+Groundnuts,242,234,Uruguay,76,82,88,E
+Groundnuts,242,236,"Venezuela, RB",101,106,111,E
+Groundnuts,242,237,Vietnam,86,91,96,E
+Groundnuts,242,238,Ethiopia,89,95,101,TCF
+Groundnuts,242,244,Samoa,91,102,113,E
+Groundnuts,242,249,"Yemen, Rep.",90,100,110,E
+Groundnuts,242,250,"Congo, Dem. Rep.",83,88,93,E
+Groundnuts,242,251,Zambia,77,82,87,E
+Oats,75,1,Armenia,193,200,207,TCF
+Oats,75,2,Afghanistan,143,150,157,E
+Oats,75,3,Albania,168,174,180,E
+Oats,75,4,Algeria,78,86,94,E
+Oats,75,7,Angola,84,88,92,E
+Oats,75,8,Antigua and Barbuda,99,105,111,E
+Oats,75,9,Argentina,116,119,122,E
+Oats,75,10,Australia,104,115,126,TCF
+Oats,75,11,Austria,160,167,174,E
+Oats,75,12,"Bahamas, The",90,96,102,E
+Oats,75,13,Bahrain,107,115,123,E
+Oats,75,16,Bangladesh,137,144,151,E
+Oats,75,18,Bhutan,151,158,165,E
+Oats,75,19,Bolivia,110,113,116,E
+Oats,75,20,Botswana,76,82,88,E
+Oats,75,21,Brazil,96,100,104,TCF
+Oats,75,23,Belize,107,112,117,E
+Oats,75,25,Solomon Islands,175,185,195,E
+Oats,75,26,Brunei Darussalam,109,120,131,E
+Oats,75,27,Bulgaria,164,170,176,E
+Oats,75,28,Myanmar,136,142,148,E
+Oats,75,29,Burundi,86,90,94,E
+Oats,75,32,Cameroon,83,88,93,E
+Oats,75,33,Canada,69,83,97,TCF
+Oats,75,35,Cape Verde,76,81,86,E
+Oats,75,37,Central African Republic,81,86,91,E
+Oats,75,38,Sri Lanka,120,126,132,E
+Oats,75,39,Chad,72,79,86,E
+Oats,75,40,Chile,119,122,125,E
+Oats,75,41,China,154,162,170,E
+Oats,75,44,Colombia,110,117,124,E
+Oats,75,45,Comoros,84,89,94,E
+Oats,75,46,"Congo, Rep.",83,88,93,E
+Oats,75,48,Costa Rica,109,117,125,E
+Oats,75,50,Cyprus,120,126,132,E
+Oats,75,52,Azerbaijan,208,214,220,TCF
+Oats,75,53,Benin,76,81,86,E
+Oats,75,54,Denmark,153,160,167,E
+Oats,75,55,Dominica,113,122,131,E
+Oats,75,56,Dominican Republic,103,107,111,E
+Oats,75,57,Belarus,172,178,184,E
+Oats,75,58,Ecuador,110,115,120,E
+Oats,75,59,"Egypt, Arab Rep.",78,85,92,E
+Oats,75,60,El Salvador,105,109,113,E
+Oats,75,61,Equatorial Guinea,74,83,92,E
+Oats,75,63,Estonia,169,175,181,E
+Oats,75,66,Fiji,173,183,193,E
+Oats,75,67,Finland,213,220,227,TCF
+Oats,75,68,France,153,159,165,E
+Oats,75,73,Georgia,172,180,188,TCF
+Oats,75,74,Gabon,79,85,91,E
+Oats,75,75,"Gambia, The",74,80,86,E
+Oats,75,79,Germany,144,150,156,TCF
+Oats,75,80,Bosnia and Herzegovina,171,177,183,E
+Oats,75,81,Ghana,77,82,87,E
+Oats,75,83,Kiribati,150,164,178,E
+Oats,75,84,Greece,151,157,163,E
+Oats,75,86,Grenada,96,101,106,E
+Oats,75,89,Guatemala,113,120,127,E
+Oats,75,90,Guinea,83,89,95,E
+Oats,75,91,Guyana,108,114,120,E
+Oats,75,93,Haiti,107,112,117,E
+Oats,75,95,Honduras,109,114,119,E
+Oats,75,96,"Hong Kong SAR, China",117,126,135,E
+Oats,75,97,Hungary,163,168,173,E
+Oats,75,98,Croatia,164,169,174,E
+Oats,75,99,Iceland,163,170,177,E
+Oats,75,100,India,57,62,67,TCF
+Oats,75,101,Indonesia,131,138,145,E
+Oats,75,102,Iran (Islamic Republic of),135,142,149,E
+Oats,75,103,Iraq,129,136,143,E
+Oats,75,104,Ireland,151,158,165,E
+Oats,75,105,Israel,116,122,128,E
+Oats,75,106,Italy,153,159,165,E
+Oats,75,107,Cote d'Ivoire,80,85,90,E
+Oats,75,108,Kazakhstan,173,183,193,TCF
+Oats,75,110,Japan,141,149,157,E
+Oats,75,112,Jordan,128,135,142,E
+Oats,75,113,Kyrgyz Republic,161,170,179,E
+Oats,75,114,Kenya,75,80,85,E
+Oats,75,115,Cambodia,125,131,137,E
+Oats,75,117,"Korea, Rep.",66,75,84,TCF
+Oats,75,118,Kuwait,102,111,120,E
+Oats,75,119,Latvia,229,235,241,TCF
+Oats,75,120,Lao PDR,132,137,142,E
+Oats,75,121,Lebanon,135,139,143,E
+Oats,75,122,Lesotho,56,60,64,TCF
+Oats,75,123,Liberia,87,95,103,E
+Oats,75,124,Libya,74,81,88,E
+Oats,75,126,Lithuania,168,174,180,E
+Oats,75,128,"Macao SAR, China",98,112,126,E
+Oats,75,129,Madagascar,88,93,98,E
+Oats,75,130,Malawi,88,92,96,E
+Oats,75,131,Malaysia,128,136,144,E
+Oats,75,132,Maldives,121,127,133,E
+Oats,75,133,Mali,71,78,85,E
+Oats,75,134,Malta,137,145,153,E
+Oats,75,136,Mauritania,69,77,85,E
+Oats,75,137,Mauritius,82,88,94,E
+Oats,75,138,Mexico,102,106,110,E
+Oats,75,141,Mongolia,165,177,189,E
+Oats,75,143,Morocco,74,80,86,TCF
+Oats,75,144,Mozambique,83,88,93,E
+Oats,75,145,"Micronesia, Fed. Sts.",173,184,195,E
+Oats,75,146,Moldova,170,177,184,E
+Oats,75,147,Namibia,81,86,91,E
+Oats,75,149,Nepal,148,153,158,E
+Oats,75,150,Netherlands,149,156,163,E
+Oats,75,154,"Macedonia, FYR",167,173,179,E
+Oats,75,155,Vanuatu,174,184,194,E
+Oats,75,156,New Zealand,102,110,118,TCF
+Oats,75,157,Nicaragua,109,115,121,E
+Oats,75,158,Niger,71,79,87,E
+Oats,75,159,Nigeria,78,83,88,E
+Oats,75,162,Norway,156,166,176,E
+Oats,75,165,Pakistan,131,138,145,E
+Oats,75,166,Panama,106,114,122,E
+Oats,75,167,Czech Republic,185,190,195,TCF
+Oats,75,168,Papua New Guinea,176,186,196,E
+Oats,75,169,Paraguay,106,110,114,E
+Oats,75,170,Peru,110,114,118,E
+Oats,75,171,Philippines,131,138,145,E
+Oats,75,173,Poland,165,171,177,E
+Oats,75,174,Portugal,149,155,161,E
+Oats,75,175,Guinea-Bissau,81,86,91,E
+Oats,75,176,Timor-Leste,124,130,136,E
+Oats,75,178,Eritrea,70,77,84,E
+Oats,75,179,Qatar,71,87,103,E
+Oats,75,180,Palau,167,177,187,E
+Oats,75,181,Zimbabwe,85,90,95,E
+Oats,75,183,Romania,124,130,136,TCF
+Oats,75,184,Rwanda,88,92,96,E
+Oats,75,185,Russian Federation,190,203,216,E
+Oats,75,188,St. Kitts and Nevis,102,107,112,E
+Oats,75,189,St. Lucia,104,109,114,E
+Oats,75,191,St. Vincent and the Grenadines,96,101,106,E
+Oats,75,193,Sao Tome and Principe,89,96,103,E
+Oats,75,194,Saudi Arabia,106,114,122,E
+Oats,75,195,Senegal,72,78,84,E
+Oats,75,196,Seychelles,68,75,82,E
+Oats,75,197,Sierra Leone,87,95,103,E
+Oats,75,198,Slovenia,166,171,176,E
+Oats,75,199,Slovak Republic,164,170,176,TCF
+Oats,75,200,Singapore,96,108,120,E
+Oats,75,202,South Africa,20,25,30,TCF
+Oats,75,203,Spain,148,154,160,E
+Oats,75,206,Sudan,70,77,84,E
+Oats,75,207,Suriname,106,112,118,E
+Oats,75,208,Tajikistan,158,165,172,E
+Oats,75,209,Swaziland,87,91,95,E
+Oats,75,210,Sweden,203,210,217,TCF
+Oats,75,211,Switzerland,246,255,264,TCF
+Oats,75,212,the Syrian Arab Republic,73,79,85,TCF
+Oats,75,213,Turkmenistan,138,145,152,E
+Oats,75,215,Tanzania,83,87,91,E
+Oats,75,216,Thailand,124,129,134,E
+Oats,75,217,Togo,77,82,87,E
+Oats,75,219,Tonga,165,175,185,E
+Oats,75,220,Trinidad and Tobago,91,97,103,E
+Oats,75,221,Oman,101,110,119,E
+Oats,75,222,Tunisia,83,90,97,E
+Oats,75,223,Turkey,142,147,152,E
+Oats,75,225,United Arab Emirates,95,105,115,E
+Oats,75,226,Uganda,82,86,90,TCF
+Oats,75,229,United Kingdom,153,160,167,TCF
+Oats,75,230,Ukraine,172,179,186,E
+Oats,75,231,United States,83,93,103,TCF
+Oats,75,233,Burkina Faso,73,79,85,E
+Oats,75,234,Uruguay,115,119,123,E
+Oats,75,235,Uzbekistan,188,196,204,TCF
+Oats,75,236,"Venezuela, RB",101,106,111,E
+Oats,75,237,Vietnam,131,136,141,E
+Oats,75,238,Ethiopia,79,84,89,E
+Oats,75,244,Samoa,172,182,192,E
+Oats,75,249,"Yemen, Rep.",115,124,133,E
+Oats,75,250,"Congo, Dem. Rep.",84,89,94,E
+Oats,75,251,Zambia,87,91,95,E
+Oats,75,255,Belgium,153,159,165,E
+Oats,75,256,Luxembourg,123,138,153,E
+Oats,75,272,Serbia,167,173,179,E
+Oats,75,273,Montenegro,170,176,182,E
+Rye,71,1,Armenia,166,173,180,E
+Rye,71,3,Albania,200,209,218,E
+Rye,71,4,Algeria,20,33,46,E
+Rye,71,9,Argentina,101,106,111,E
+Rye,71,11,Austria,158,167,176,E
+Rye,71,19,Bolivia,83,90,97,TCF
+Rye,71,21,Brazil,90,100,110,TCF
+Rye,71,27,Bulgaria,183,191,199,E
+Rye,71,33,Canada,67,79,91,TCF
+Rye,71,40,Chile,105,109,113,E
+Rye,71,41,China,79,85,91,TCF
+Rye,71,44,Colombia,109,126,143,E
+Rye,71,50,Cyprus,86,96,106,E
+Rye,71,52,Azerbaijan,171,177,183,TCF
+Rye,71,54,Denmark,77,85,93,TCF
+Rye,71,57,Belarus,195,203,211,E
+Rye,71,58,Ecuador,108,119,130,E
+Rye,71,59,"Egypt, Arab Rep.",23,36,49,E
+Rye,71,60,El Salvador,98,108,118,E
+Rye,71,63,Estonia,133,140,147,TCF
+Rye,71,67,Finland,172,180,188,TCF
+Rye,71,68,France,153,160,167,E
+Rye,71,73,Georgia,262,270,278,TCF
+Rye,71,79,Germany,122,130,138,TCF
+Rye,71,80,Bosnia and Herzegovina,206,215,224,E
+Rye,71,84,Greece,155,162,169,E
+Rye,71,89,Guatemala,116,132,148,E
+Rye,71,95,Honduras,109,120,131,E
+Rye,71,97,Hungary,175,182,189,E
+Rye,71,98,Croatia,183,190,197,E
+Rye,71,99,Iceland,178,187,196,E
+Rye,71,104,Ireland,154,162,170,E
+Rye,71,106,Italy,154,161,168,E
+Rye,71,108,Kazakhstan,113,119,125,TCF
+Rye,71,113,Kyrgyz Republic,183,192,201,E
+Rye,71,117,"Korea, Rep.",61,69,77,TCF
+Rye,71,119,Latvia,213,220,227,TCF
+Rye,71,122,Lesotho,81,86,91,E
+Rye,71,124,Libya,14,18,32,E
+Rye,71,126,Lithuania,186,193,200,E
+Rye,71,134,Malta,132,142,152,E
+Rye,71,136,Mauritania,15,30,45,E
+Rye,71,138,Mexico,72,80,88,E
+Rye,71,143,Morocco,81,90,99,TCF
+Rye,71,146,Moldova,201,212,223,E
+Rye,71,147,Namibia,38,48,58,E
+Rye,71,150,Netherlands,142,150,158,E
+Rye,71,154,"Macedonia, FYR",195,203,211,E
+Rye,71,157,Nicaragua,111,125,139,E
+Rye,71,162,Norway,133,147,161,E
+Rye,71,167,Czech Republic,184,190,196,TCF
+Rye,71,169,Paraguay,92,100,108,E
+Rye,71,170,Peru,106,114,122,E
+Rye,71,173,Poland,195,202,209,TCF
+Rye,71,174,Portugal,160,166,172,E
+Rye,71,183,Romania,242,250,258,TCF
+Rye,71,185,Russian Federation,211,222,233,E
+Rye,71,198,Slovenia,180,187,194,E
+Rye,71,199,Slovak Republic,223,230,237,TCF
+Rye,71,202,South Africa,27,35,43,TCF
+Rye,71,203,Spain,145,153,161,E
+Rye,71,207,Suriname,102,115,128,E
+Rye,71,208,Tajikistan,180,188,196,E
+Rye,71,210,Sweden,191,200,209,TCF
+Rye,71,211,Switzerland,242,254,266,TCF
+Rye,71,212,the Syrian Arab Republic,131,141,151,E
+Rye,71,213,Turkmenistan,128,137,146,E
+Rye,71,215,Tanzania,57,66,75,E
+Rye,71,223,Turkey,180,185,190,TCF
+Rye,71,226,Uganda,53,62,71,TCF
+Rye,71,229,United Kingdom,126,134,142,TCF
+Rye,71,230,Ukraine,201,211,221,E
+Rye,71,231,United States,98,111,124,TCF
+Rye,71,234,Uruguay,99,106,113,E
+Rye,71,235,Uzbekistan,149,158,167,E
+Rye,71,236,"Venezuela, RB",89,100,111,E
+Rye,71,255,Belgium,108,115,122,TCF
+Rye,71,256,Luxembourg,89,110,121,E
+Rye,71,272,Serbia,194,202,210,E
+Rye,71,273,Montenegro,200,208,216,E
+Millet,79,2,Afghanistan,28,30,32,TCF
+Millet,79,4,Algeria,16,18,20,E
+Millet,79,7,Angola,9,10,11,TCF
+Millet,79,9,Argentina,18,19,20,TCF
+Millet,79,10,Australia,14,18,22,TCF
+Millet,79,16,Bangladesh,22,24,26,E
+Millet,79,18,Bhutan,20,22,24,E
+Millet,79,19,Bolivia,13,14,15,E
+Millet,79,20,Botswana,9,11,13,E
+Millet,79,21,Brazil,11,12,13,E
+Millet,79,27,Bulgaria,26,28,30,E
+Millet,79,28,Myanmar,15,17,19,TCF
+Millet,79,29,Burundi,8,9,10,E
+Millet,79,32,Cameroon,3,4,5,TCF
+Millet,79,35,Cape Verde,9,10,11,E
+Millet,79,37,Central African Republic,3,4,5,TCF
+Millet,79,38,Sri Lanka,16,18,20,E
+Millet,79,39,Chad,12,14,16,E
+Millet,79,40,Chile,8,9,10,E
+Millet,79,41,China,33,35,37,TCF
+Millet,79,44,Colombia,10,12,14,E
+Millet,79,45,Comoros,10,11,12,E
+Millet,79,46,"Congo, Rep.",8,9,10,E
+Millet,79,50,Cyprus,15,17,19,E
+Millet,79,52,Azerbaijan,26,27,28,E
+Millet,79,53,Benin,11,12,13,E
+Millet,79,55,Dominica,10,12,14,E
+Millet,79,56,Dominican Republic,12,13,14,E
+Millet,79,57,Belarus,27,29,31,E
+Millet,79,58,Ecuador,11,12,13,E
+Millet,79,59,"Egypt, Arab Rep.",14,16,18,E
+Millet,79,60,El Salvador,12,13,14,E
+Millet,79,61,Equatorial Guinea,1,2,3,E
+Millet,79,74,Gabon,5,7,9,E
+Millet,79,75,"Gambia, The",7,8,9,TCF
+Millet,79,81,Ghana,10,11,12,E
+Millet,79,86,Grenada,11,12,13,E
+Millet,79,89,Guatemala,13,15,17,E
+Millet,79,90,Guinea,11,12,13,E
+Millet,79,93,Haiti,15,16,17,E
+Millet,79,95,Honduras,13,14,15,E
+Millet,79,97,Hungary,23,25,27,TCF
+Millet,79,100,India,22,23,24,E
+Millet,79,101,Indonesia,16,18,20,E
+Millet,79,102,Iran (Islamic Republic of),49,51,53,TCF
+Millet,79,103,Iraq,28,30,32,E
+Millet,79,105,Israel,14,16,18,E
+Millet,79,107,Cote d'Ivoire,10,11,12,E
+Millet,79,108,Kazakhstan,19,21,23,TCF
+Millet,79,112,Jordan,23,25,27,E
+Millet,79,113,Kyrgyz Republic,28,30,32,E
+Millet,79,114,Kenya,9,10,11,E
+Millet,79,115,Cambodia,18,20,22,E
+Millet,79,117,"Korea, Rep.",14,16,18,TCF
+Millet,79,118,Kuwait,15,18,21,E
+Millet,79,120,Lao PDR,19,21,23,E
+Millet,79,121,Lebanon,21,22,23,E
+Millet,79,122,Lesotho,12,13,14,E
+Millet,79,123,Liberia,9,11,13,E
+Millet,79,124,Libya,11,13,15,E
+Millet,79,129,Madagascar,11,12,13,E
+Millet,79,130,Malawi,11,12,13,E
+Millet,79,131,Malaysia,13,15,17,E
+Millet,79,132,Maldives,15,17,19,E
+Millet,79,133,Mali,13,15,17,E
+Millet,79,136,Mauritania,14,16,18,E
+Millet,79,137,Mauritius,6,8,10,E
+Millet,79,138,Mexico,13,14,15,E
+Millet,79,141,Mongolia,32,35,38,E
+Millet,79,143,Morocco,39,40,41,TCF
+Millet,79,144,Mozambique,12,13,14,E
+Millet,79,146,Moldova,28,30,32,TCF
+Millet,79,147,Namibia,1,2,3,TCF
+Millet,79,149,Nepal,19,20,21,TCF
+Millet,79,156,New Zealand,18,21,24,E
+Millet,79,157,Nicaragua,12,14,16,E
+Millet,79,158,Niger,14,16,18,E
+Millet,79,159,Nigeria,11,12,13,E
+Millet,79,165,Pakistan,25,27,29,E
+Millet,79,169,Paraguay,16,17,18,E
+Millet,79,170,Peru,10,11,12,E
+Millet,79,171,Philippines,17,19,21,E
+Millet,79,175,Guinea-Bissau,11,12,13,TCF
+Millet,79,176,Timor-Leste,16,18,20,E
+Millet,79,178,Eritrea,3,5,7,TCF
+Millet,79,181,Zimbabwe,9,10,11,TCF
+Millet,79,183,Romania,26,28,30,E
+Millet,79,184,Rwanda,7,8,9,E
+Millet,79,185,Russian Federation,31,34,37,E
+Millet,79,193,Sao Tome and Principe,9,11,13,E
+Millet,79,194,Saudi Arabia,16,18,20,E
+Millet,79,195,Senegal,7,8,9,TCF
+Millet,79,196,Seychelles,2,4,6,E
+Millet,79,197,Sierra Leone,9,11,13,E
+Millet,79,198,Slovenia,21,23,25,E
+Millet,79,199,Slovak Republic,23,25,27,TCF
+Millet,79,202,South Africa,5,6,7,TCF
+Millet,79,206,Sudan,11,13,15,E
+Millet,79,207,Suriname,12,13,14,E
+Millet,79,208,Tajikistan,26,28,30,E
+Millet,79,209,Swaziland,11,12,13,E
+Millet,79,212,the Syrian Arab Republic,18,19,20,TCF
+Millet,79,213,Turkmenistan,27,29,31,E
+Millet,79,215,Tanzania,9,10,11,E
+Millet,79,216,Thailand,16,18,20,E
+Millet,79,217,Togo,11,12,13,E
+Millet,79,222,Tunisia,14,16,18,E
+Millet,79,223,Turkey,22,23,24,E
+Millet,79,226,Uganda,11,12,13,TCF
+Millet,79,230,Ukraine,31,33,35,TCF
+Millet,79,231,United States,7,11,15,E
+Millet,79,233,Burkina Faso,12,13,14,E
+Millet,79,234,Uruguay,14,15,16,E
+Millet,79,235,Uzbekistan,30,32,34,E
+Millet,79,236,"Venezuela, RB",10,11,12,E
+Millet,79,237,Vietnam,20,21,22,E
+Millet,79,238,Ethiopia,7,8,9,TCF
+Millet,79,249,"Yemen, Rep.",23,25,27,TCF
+Millet,79,250,"Congo, Dem. Rep.",9,10,11,E
+Millet,79,251,Zambia,11,12,13,E
+Peas Dry,187,1,Armenia,120,127,134,E
+Peas Dry,187,2,Afghanistan,103,110,117,E
+Peas Dry,187,3,Albania,140,146,152,E
+Peas Dry,187,4,Algeria,52,60,68,E
+Peas Dry,187,7,Angola,87,91,95,E
+Peas Dry,187,8,Antigua and Barbuda,85,91,97,E
+Peas Dry,187,9,Argentina,125,128,131,E
+Peas Dry,187,10,Australia,163,174,185,E
+Peas Dry,187,11,Austria,184,191,198,E
+Peas Dry,187,12,"Bahamas, The",99,105,111,E
+Peas Dry,187,13,Bahrain,80,88,96,E
+Peas Dry,187,16,Bangladesh,64,71,78,E
+Peas Dry,187,18,Bhutan,118,125,132,E
+Peas Dry,187,19,Bolivia,77,80,83,TCF
+Peas Dry,187,20,Botswana,80,86,92,E
+Peas Dry,187,21,Brazil,89,93,97,E
+Peas Dry,187,23,Belize,73,78,83,E
+Peas Dry,187,25,Solomon Islands,109,119,129,E
+Peas Dry,187,26,Brunei Darussalam,114,125,136,E
+Peas Dry,187,27,Bulgaria,145,151,157,E
+Peas Dry,187,28,Myanmar,33,39,45,TCF
+Peas Dry,187,29,Burundi,92,96,100,E
+Peas Dry,187,32,Cameroon,66,71,76,E
+Peas Dry,187,33,Canada,164,178,192,E
+Peas Dry,187,35,Cape Verde,88,93,98,E
+Peas Dry,187,37,Central African Republic,66,71,76,E
+Peas Dry,187,38,Sri Lanka,93,99,105,E
+Peas Dry,187,39,Chad,54,61,68,E
+Peas Dry,187,40,Chile,168,171,174,E
+Peas Dry,187,41,China,82,90,98,TCF
+Peas Dry,187,44,Colombia,77,84,91,E
+Peas Dry,187,45,Comoros,62,67,72,E
+Peas Dry,187,46,"Congo, Rep.",72,77,82,E
+Peas Dry,187,48,Costa Rica,70,78,86,E
+Peas Dry,187,50,Cyprus,123,129,135,E
+Peas Dry,187,52,Azerbaijan,115,121,127,E
+Peas Dry,187,53,Benin,59,64,69,E
+Peas Dry,187,54,Denmark,187,194,201,E
+Peas Dry,187,55,Dominica,74,83,92,E
+Peas Dry,187,56,Dominican Republic,91,95,99,E
+Peas Dry,187,57,Belarus,153,159,165,E
+Peas Dry,187,58,Ecuador,101,106,111,E
+Peas Dry,187,59,"Egypt, Arab Rep.",123,130,137,TCF
+Peas Dry,187,60,El Salvador,85,89,93,E
+Peas Dry,187,61,Equatorial Guinea,79,88,97,E
+Peas Dry,187,63,Estonia,168,174,180,E
+Peas Dry,187,66,Fiji,117,126,135,E
+Peas Dry,187,67,Finland,190,197,204,E
+Peas Dry,187,68,France,175,181,187,E
+Peas Dry,187,73,Georgia,125,133,141,E
+Peas Dry,187,74,Gabon,73,79,85,E
+Peas Dry,187,75,"Gambia, The",58,64,70,E
+Peas Dry,187,79,Germany,114,120,126,TCF
+Peas Dry,187,80,Bosnia and Herzegovina,142,148,154,E
+Peas Dry,187,81,Ghana,61,66,71,E
+Peas Dry,187,83,Kiribati,128,142,156,E
+Peas Dry,187,84,Greece,148,154,160,E
+Peas Dry,187,86,Grenada,87,92,97,E
+Peas Dry,187,89,Guatemala,70,77,84,E
+Peas Dry,187,90,Guinea,56,62,68,E
+Peas Dry,187,91,Guyana,72,78,84,E
+Peas Dry,187,93,Haiti,79,84,89,E
+Peas Dry,187,95,Honduras,81,86,91,E
+Peas Dry,187,96,"Hong Kong SAR, China",105,114,123,E
+Peas Dry,187,97,Hungary,155,160,165,TCF
+Peas Dry,187,98,Croatia,147,152,157,E
+Peas Dry,187,99,Iceland,217,224,231,E
+Peas Dry,187,100,India,45,50,55,E
+Peas Dry,187,101,Indonesia,84,91,98,E
+Peas Dry,187,102,Iran (Islamic Republic of),35,42,49,TCF
+Peas Dry,187,103,Iraq,74,81,88,E
+Peas Dry,187,104,Ireland,93,100,107,TCF
+Peas Dry,187,105,Israel,127,133,139,E
+Peas Dry,187,106,Italy,162,168,174,E
+Peas Dry,187,107,Cote d'Ivoire,62,67,72,E
+Peas Dry,187,108,Kazakhstan,127,137,147,TCF
+Peas Dry,187,110,Japan,123,131,139,E
+Peas Dry,187,112,Jordan,103,110,117,E
+Peas Dry,187,113,Kyrgyz Republic,135,144,153,E
+Peas Dry,187,114,Kenya,80,85,90,E
+Peas Dry,187,115,Cambodia,85,91,97,E
+Peas Dry,187,117,"Korea, Rep.",112,121,130,E
+Peas Dry,187,118,Kuwait,95,104,113,E
+Peas Dry,187,119,Latvia,204,210,216,TCF
+Peas Dry,187,120,Lao PDR,92,97,102,E
+Peas Dry,187,121,Lebanon,126,130,134,TCF
+Peas Dry,187,122,Lesotho,51,55,59,TCF
+Peas Dry,187,123,Liberia,51,59,67,E
+Peas Dry,187,124,Libya,53,60,67,TCF
+Peas Dry,187,126,Lithuania,164,170,176,E
+Peas Dry,187,128,"Macao SAR, China",126,140,154,E
+Peas Dry,187,129,Madagascar,69,74,79,E
+Peas Dry,187,130,Malawi,76,80,84,E
+Peas Dry,187,131,Malaysia,88,96,104,E
+Peas Dry,187,132,Maldives,89,95,101,E
+Peas Dry,187,133,Mali,45,52,59,E
+Peas Dry,187,134,Malta,147,155,163,E
+Peas Dry,187,136,Mauritania,45,53,61,E
+Peas Dry,187,137,Mauritius,75,81,87,E
+Peas Dry,187,138,Mexico,103,107,111,E
+Peas Dry,187,141,Mongolia,117,129,141,E
+Peas Dry,187,143,Morocco,34,40,46,TCF
+Peas Dry,187,144,Mozambique,68,73,78,E
+Peas Dry,187,145,"Micronesia, Fed. Sts.",101,112,123,E
+Peas Dry,187,146,Moldova,131,138,145,E
+Peas Dry,187,147,Namibia,89,94,99,E
+Peas Dry,187,149,Nepal,118,123,128,E
+Peas Dry,187,150,Netherlands,186,193,200,E
+Peas Dry,187,154,"Macedonia, FYR",149,155,161,E
+Peas Dry,187,155,Vanuatu,118,128,138,E
+Peas Dry,187,156,New Zealand,242,250,258,TCF
+Peas Dry,187,157,Nicaragua,72,78,84,E
+Peas Dry,187,158,Niger,46,53,60,E
+Peas Dry,187,159,Nigeria,60,65,70,E
+Peas Dry,187,162,Norway,215,225,235,E
+Peas Dry,187,165,Pakistan,90,97,104,E
+Peas Dry,187,166,Panama,74,82,90,E
+Peas Dry,187,167,Czech Republic,255,260,265,TCF
+Peas Dry,187,168,Papua New Guinea,109,119,129,E
+Peas Dry,187,169,Paraguay,84,88,92,E
+Peas Dry,187,170,Peru,66,70,74,TCF
+Peas Dry,187,171,Philippines,83,90,97,E
+Peas Dry,187,173,Poland,174,180,186,TCF
+Peas Dry,187,174,Portugal,158,164,170,E
+Peas Dry,187,175,Guinea-Bissau,55,60,65,E
+Peas Dry,187,176,Timor-Leste,101,107,113,E
+Peas Dry,187,178,Eritrea,58,65,72,TCF
+Peas Dry,187,179,Qatar,126,142,158,E
+Peas Dry,187,180,Palau,111,121,131,E
+Peas Dry,187,181,Zimbabwe,75,80,85,E
+Peas Dry,187,183,Romania,217,223,229,TCF
+Peas Dry,187,184,Rwanda,100,104,108,E
+Peas Dry,187,185,Russian Federation,163,176,189,E
+Peas Dry,187,188,St. Kitts and Nevis,92,97,102,E
+Peas Dry,187,189,St. Lucia,76,81,86,E
+Peas Dry,187,191,St. Vincent and the Grenadines,82,87,92,E
+Peas Dry,187,193,Sao Tome and Principe,59,66,73,E
+Peas Dry,187,194,Saudi Arabia,104,112,120,E
+Peas Dry,187,195,Senegal,58,64,70,E
+Peas Dry,187,196,Seychelles,77,84,91,E
+Peas Dry,187,197,Sierra Leone,22,30,38,TCF
+Peas Dry,187,198,Slovenia,158,163,168,E
+Peas Dry,187,199,Slovak Republic,145,150,155,TCF
+Peas Dry,187,200,Singapore,125,137,149,E
+Peas Dry,187,202,South Africa,95,100,105,TCF
+Peas Dry,187,203,Spain,99,105,111,TCF
+Peas Dry,187,206,Sudan,57,64,71,E
+Peas Dry,187,207,Suriname,76,82,88,E
+Peas Dry,187,208,Tajikistan,136,143,150,E
+Peas Dry,187,209,Swaziland,86,90,94,E
+Peas Dry,187,210,Sweden,230,237,244,TCF
+Peas Dry,187,211,Switzerland,241,250,259,TCF
+Peas Dry,187,212,the Syrian Arab Republic,94,100,106,TCF
+Peas Dry,187,213,Turkmenistan,95,102,109,E
+Peas Dry,187,215,Tanzania,82,86,90,E
+Peas Dry,187,216,Thailand,93,98,103,E
+Peas Dry,187,217,Togo,60,65,70,E
+Peas Dry,187,219,Tonga,122,132,142,E
+Peas Dry,187,220,Trinidad and Tobago,99,105,111,E
+Peas Dry,187,221,Oman,117,126,135,E
+Peas Dry,187,222,Tunisia,67,74,81,E
+Peas Dry,187,223,Turkey,129,134,139,E
+Peas Dry,187,225,United Arab Emirates,107,117,127,E
+Peas Dry,187,226,Uganda,80,84,88,E
+Peas Dry,187,229,United Kingdom,188,195,202,E
+Peas Dry,187,230,Ukraine,137,144,151,E
+Peas Dry,187,231,United States,140,150,160,TCF
+Peas Dry,187,233,Burkina Faso,54,60,66,E
+Peas Dry,187,234,Uruguay,102,106,110,E
+Peas Dry,187,235,Uzbekistan,93,101,109,E
+Peas Dry,187,236,"Venezuela, RB",89,94,99,E
+Peas Dry,187,237,Vietnam,88,93,98,E
+Peas Dry,187,238,Ethiopia,220,225,230,TCF
+Peas Dry,187,244,Samoa,101,111,121,E
+Peas Dry,187,249,"Yemen, Rep.",102,111,120,E
+Peas Dry,187,250,"Congo, Dem. Rep.",72,77,82,E
+Peas Dry,187,251,Zambia,76,80,84,E
+Peas Dry,187,255,Belgium,181,187,193,E
+Peas Dry,187,256,Luxembourg,212,227,242,E
+Peas Dry,187,272,Serbia,142,148,154,E
+Peas Dry,187,273,Montenegro,147,153,159,E
+Soybeans,236,1,Armenia,82,89,96,E
+Soybeans,236,2,Afghanistan,87,94,101,E
+Soybeans,236,3,Albania,89,95,101,E
+Soybeans,236,4,Algeria,61,69,77,E
+Soybeans,236,7,Angola,58,62,66,E
+Soybeans,236,8,Antigua and Barbuda,22,28,34,E
+Soybeans,236,9,Argentina,90,93,96,E
+Soybeans,236,10,Australia,127,138,149,E
+Soybeans,236,11,Austria,98,105,112,E
+Soybeans,236,12,"Bahamas, The",55,61,67,E
+Soybeans,236,13,Bahrain,88,96,104,E
+Soybeans,236,18,Bhutan,42,49,56,E
+Soybeans,236,19,Bolivia,77,80,83,TCF
+Soybeans,236,20,Botswana,69,75,81,E
+Soybeans,236,21,Brazil,37,41,45,E
+Soybeans,236,23,Belize,18,23,28,E
+Soybeans,236,25,Solomon Islands,16,26,36,E
+Soybeans,236,27,Bulgaria,104,110,116,E
+Soybeans,236,28,Myanmar,33,39,45,TCF
+Soybeans,236,29,Burundi,57,61,65,E
+Soybeans,236,32,Cameroon,29,34,39,E
+Soybeans,236,33,Canada,57,71,85,TCF
+Soybeans,236,35,Cape Verde,82,87,92,E
+Soybeans,236,37,Central African Republic,38,43,48,E
+Soybeans,236,38,Sri Lanka,54,60,66,E
+Soybeans,236,39,Chad,63,70,77,E
+Soybeans,236,40,Chile,107,110,113,E
+Soybeans,236,41,China,79,87,95,E
+Soybeans,236,44,Colombia,103,110,117,E
+Soybeans,236,45,Comoros,24,29,34,E
+Soybeans,236,46,"Congo, Rep.",32,37,42,E
+Soybeans,236,50,Cyprus,95,101,107,E
+Soybeans,236,52,Azerbaijan,85,91,97,E
+Soybeans,236,53,Benin,45,50,55,E
+Soybeans,236,54,Denmark,119,126,133,E
+Soybeans,236,56,Dominican Republic,48,52,56,E
+Soybeans,236,57,Belarus,102,108,114,E
+Soybeans,236,58,Ecuador,36,41,46,E
+Soybeans,236,59,"Egypt, Arab Rep.",71,78,85,E
+Soybeans,236,60,El Salvador,36,40,44,E
+Soybeans,236,61,Equatorial Guinea,21,30,39,E
+Soybeans,236,63,Estonia,109,115,121,E
+Soybeans,236,66,Fiji,36,46,56,E
+Soybeans,236,67,Finland,118,125,132,E
+Soybeans,236,68,France,111,117,123,E
+Soybeans,236,73,Georgia,69,77,85,E
+Soybeans,236,74,Gabon,20,26,32,E
+Soybeans,236,75,"Gambia, The",48,54,60,E
+Soybeans,236,79,Germany,115,121,127,E
+Soybeans,236,80,Bosnia and Herzegovina,87,93,99,E
+Soybeans,236,81,Ghana,42,47,52,E
+Soybeans,236,83,Kiribati,101,115,129,E
+Soybeans,236,84,Greece,106,112,118,E
+Soybeans,236,86,Grenada,51,56,61,E
+Soybeans,236,89,Guatemala,48,54,60,E
+Soybeans,236,90,Guinea,20,26,32,E
+Soybeans,236,93,Haiti,36,41,46,E
+Soybeans,236,95,Honduras,26,31,36,E
+Soybeans,236,97,Hungary,106,111,116,E
+Soybeans,236,98,Croatia,90,95,100,E
+Soybeans,236,100,India,57,62,67,TCF
+Soybeans,236,101,Indonesia,42,51,60,E
+Soybeans,236,102,Iran (Islamic Republic of),63,70,77,TCF
+Soybeans,236,103,Iraq,78,85,92,E
+Soybeans,236,104,Ireland,110,117,124,E
+Soybeans,236,105,Israel,105,111,117,E
+Soybeans,236,106,Italy,74,80,86,TCF
+Soybeans,236,107,Cote d'Ivoire,34,39,44,E
+Soybeans,236,108,Kazakhstan,107,117,127,TCF
+Soybeans,236,110,Japan,40,48,56,TCF
+Soybeans,236,112,Jordan,99,106,113,E
+Soybeans,236,113,Kyrgyz Republic,91,100,109,E
+Soybeans,236,114,Kenya,70,75,80,E
+Soybeans,236,115,Cambodia,38,44,50,E
+Soybeans,236,117,"Korea, Rep.",51,60,69,TCF
+Soybeans,236,118,Kuwait,88,97,106,E
+Soybeans,236,119,Latvia,107,113,119,E
+Soybeans,236,120,Lao PDR,20,25,30,TCF
+Soybeans,236,121,Lebanon,90,94,98,E
+Soybeans,236,122,Lesotho,71,75,79,E
+Soybeans,236,123,Liberia,43,47,51,E
+Soybeans,236,124,Libya,73,80,87,E
+Soybeans,236,126,Lithuania,107,113,119,E
+Soybeans,236,128,"Macao SAR, China",22,36,50,E
+Soybeans,236,129,Madagascar,32,37,42,E
+Soybeans,236,130,Malawi,48,52,56,E
+Soybeans,236,131,Malaysia,6,10,14,E
+Soybeans,236,132,Maldives,6,9,12,E
+Soybeans,236,133,Mali,59,66,73,E
+Soybeans,236,134,Malta,117,125,133,E
+Soybeans,236,136,Mauritania,65,73,81,E
+Soybeans,236,137,Mauritius,23,29,35,E
+Soybeans,236,138,Mexico,77,81,85,E
+Soybeans,236,141,Mongolia,78,90,102,E
+Soybeans,236,143,Morocco,71,77,83,E
+Soybeans,236,144,Mozambique,47,52,57,E
+Soybeans,236,145,"Micronesia, Fed. Sts.",11,15,19,E
+Soybeans,236,146,Moldova,98,105,112,E
+Soybeans,236,147,Namibia,81,86,91,E
+Soybeans,236,149,Nepal,55,60,65,TCF
+Soybeans,236,150,Netherlands,116,123,130,E
+Soybeans,236,154,"Macedonia, FYR",104,110,116,E
+Soybeans,236,156,New Zealand,99,107,115,E
+Soybeans,236,157,Nicaragua,34,42,50,E
+Soybeans,236,158,Niger,62,70,78,E
+Soybeans,236,159,Nigeria,41,46,51,E
+Soybeans,236,162,Norway,110,120,130,E
+Soybeans,236,165,Pakistan,86,93,100,E
+Soybeans,236,166,Panama,48,52,56,E
+Soybeans,236,167,Czech Republic,185,190,195,TCF
+Soybeans,236,168,Papua New Guinea,14,24,34,E
+Soybeans,236,169,Paraguay,56,60,64,E
+Soybeans,236,170,Peru,56,60,64,TCF
+Soybeans,236,171,Philippines,10,14,18,TCF
+Soybeans,236,173,Poland,111,117,123,E
+Soybeans,236,174,Portugal,108,114,120,E
+Soybeans,236,175,Guinea-Bissau,24,29,34,E
+Soybeans,236,176,Timor-Leste,62,68,74,E
+Soybeans,236,178,Eritrea,74,81,88,E
+Soybeans,236,179,Qatar,102,118,134,E
+Soybeans,236,180,Palau,7,17,27,E
+Soybeans,236,181,Zimbabwe,85,90,95,TCF
+Soybeans,236,183,Romania,114,120,126,TCF
+Soybeans,236,184,Rwanda,66,70,74,TCF
+Soybeans,236,185,Russian Federation,92,105,118,E
+Soybeans,236,188,St. Kitts and Nevis,30,35,40,E
+Soybeans,236,189,St. Lucia,15,20,25,E
+Soybeans,236,191,St. Vincent and the Grenadines,45,50,55,E
+Soybeans,236,193,Sao Tome and Principe,10,14,18,E
+Soybeans,236,194,Saudi Arabia,100,108,116,E
+Soybeans,236,195,Senegal,55,61,67,E
+Soybeans,236,196,Seychelles,29,36,43,E
+Soybeans,236,197,Sierra Leone,30,35,40,E
+Soybeans,236,198,Slovenia,86,91,96,E
+Soybeans,236,199,Slovak Republic,54,60,66,TCF
+Soybeans,236,200,Singapore,29,41,53,E
+Soybeans,236,202,South Africa,70,75,80,TCF
+Soybeans,236,203,Spain,119,125,131,TCF
+Soybeans,236,206,Sudan,63,70,77,E
+Soybeans,236,207,Suriname,11,17,23,E
+Soybeans,236,208,Tajikistan,94,101,108,E
+Soybeans,236,209,Swaziland,62,66,70,E
+Soybeans,236,210,Sweden,119,126,133,E
+Soybeans,236,211,Switzerland,101,110,119,TCF
+Soybeans,236,212,the Syrian Arab Republic,85,91,97,E
+Soybeans,236,213,Turkmenistan,84,91,98,E
+Soybeans,236,215,Tanzania,57,61,65,E
+Soybeans,236,216,Thailand,47,52,57,E
+Soybeans,236,217,Togo,43,48,53,E
+Soybeans,236,219,Tonga,68,78,88,E
+Soybeans,236,220,Trinidad and Tobago,49,55,61,E
+Soybeans,236,221,Oman,112,121,130,E
+Soybeans,236,222,Tunisia,64,71,78,E
+Soybeans,236,223,Turkey,90,95,100,E
+Soybeans,236,225,United Arab Emirates,102,112,122,E
+Soybeans,236,226,Uganda,46,50,54,TCF
+Soybeans,236,229,United Kingdom,103,110,117,E
+Soybeans,236,230,Ukraine,97,104,111,E
+Soybeans,236,231,United States,67,77,87,TCF
+Soybeans,236,233,Burkina Faso,51,57,63,E
+Soybeans,236,234,Uruguay,50,54,58,E
+Soybeans,236,235,Uzbekistan,79,87,95,E
+Soybeans,236,236,"Venezuela, RB",33,38,43,E
+Soybeans,236,237,Vietnam,39,44,49,E
+Soybeans,236,238,Ethiopia,70,75,80,E
+Soybeans,236,244,Samoa,12,22,32,E
+Soybeans,236,249,"Yemen, Rep.",105,114,123,E
+Soybeans,236,250,"Congo, Dem. Rep.",36,41,46,E
+Soybeans,236,251,Zambia,51,55,59,E
+Soybeans,236,255,Belgium,111,117,123,E
+Soybeans,236,256,Luxembourg,113,128,143,E
+Soybeans,236,272,Serbia,98,104,110,E
+Soybeans,236,273,Montenegro,86,92,98,E
+Sorghum,83,1,Armenia,6,14,22,E
+Sorghum,83,2,Afghanistan,7,14,21,E
+Sorghum,83,3,Albania,10,16,22,E
+Sorghum,83,4,Algeria,7,11,15,E
+Sorghum,83,7,Angola,8,12,16,E
+Sorghum,83,8,Antigua and Barbuda,10,16,22,E
+Sorghum,83,9,Argentina,9,12,15,E
+Sorghum,83,10,Australia,11,15,19,TCF
+Sorghum,83,12,"Bahamas, The",9,13,17,E
+Sorghum,83,13,Bahrain,8,12,15,E
+Sorghum,83,16,Bangladesh,13,20,27,E
+Sorghum,83,18,Bhutan,10,17,24,E
+Sorghum,83,19,Bolivia,8,12,16,TCF
+Sorghum,83,20,Botswana,7,10,13,E
+Sorghum,83,21,Brazil,11,15,19,E
+Sorghum,83,23,Belize,12,17,22,E
+Sorghum,83,25,Solomon Islands,12,23,34,E
+Sorghum,83,26,Brunei Darussalam,12,17,22,E
+Sorghum,83,27,Bulgaria,8,14,20,E
+Sorghum,83,28,Myanmar,13,19,25,E
+Sorghum,83,29,Burundi,9,13,17,E
+Sorghum,83,32,Cameroon,5,10,15,TCF
+Sorghum,83,35,Cape Verde,5,11,17,E
+Sorghum,83,37,Central African Republic,9,14,19,E
+Sorghum,83,38,Sri Lanka,11,17,23,E
+Sorghum,83,39,Chad,9,12,15,E
+Sorghum,83,40,Chile,6,10,14,E
+Sorghum,83,41,China,9,14,19,E
+Sorghum,83,44,Colombia,11,18,25,E
+Sorghum,83,45,Comoros,9,15,21,E
+Sorghum,83,46,"Congo, Rep.",9,14,19,E
+Sorghum,83,48,Costa Rica,11,19,27,E
+Sorghum,83,50,Cyprus,6,12,18,E
+Sorghum,83,52,Azerbaijan,7,14,21,E
+Sorghum,83,53,Benin,7,13,19,E
+Sorghum,83,55,Dominica,9,19,29,E
+Sorghum,83,56,Dominican Republic,13,17,21,TCF
+Sorghum,83,58,Ecuador,11,16,21,E
+Sorghum,83,59,"Egypt, Arab Rep.",4,11,18,E
+Sorghum,83,60,El Salvador,11,16,21,E
+Sorghum,83,61,Equatorial Guinea,5,14,23,E
+Sorghum,83,66,Fiji,12,22,32,E
+Sorghum,83,68,France,5,13,21,E
+Sorghum,83,73,Georgia,7,15,23,E
+Sorghum,83,74,Gabon,8,14,20,E
+Sorghum,83,75,"Gambia, The",4,10,16,TCF
+Sorghum,83,80,Bosnia and Herzegovina,9,16,23,E
+Sorghum,83,81,Ghana,7,13,19,E
+Sorghum,83,84,Greece,7,14,21,E
+Sorghum,83,86,Grenada,9,14,19,E
+Sorghum,83,89,Guatemala,11,18,25,E
+Sorghum,83,90,Guinea,9,15,21,E
+Sorghum,83,91,Guyana,12,18,24,E
+Sorghum,83,93,Haiti,11,16,21,E
+Sorghum,83,95,Honduras,14,19,24,TCF
+Sorghum,83,97,Hungary,8,14,20,E
+Sorghum,83,98,Croatia,9,15,21,E
+Sorghum,83,100,India,7,12,17,TCF
+Sorghum,83,101,Indonesia,13,20,27,E
+Sorghum,83,102,Iran (Islamic Republic of),7,14,21,E
+Sorghum,83,103,Iraq,7,15,23,E
+Sorghum,83,105,Israel,8,11,14,E
+Sorghum,83,106,Italy,8,13,18,E
+Sorghum,83,107,Cote d'Ivoire,9,14,19,E
+Sorghum,83,108,Kazakhstan,10,14,18,E
+Sorghum,83,110,Japan,11,15,19,E
+Sorghum,83,112,Jordan,6,13,20,E
+Sorghum,83,113,Kyrgyz Republic,9,14,19,E
+Sorghum,83,114,Kenya,6,12,18,E
+Sorghum,83,115,Cambodia,12,18,24,E
+Sorghum,83,117,"Korea, Rep.",3,5,7,TCF
+Sorghum,83,118,Kuwait,5,11,17,E
+Sorghum,83,120,Lao PDR,13,18,23,E
+Sorghum,83,121,Lebanon,9,13,17,E
+Sorghum,83,122,Lesotho,7,11,15,E
+Sorghum,83,123,Liberia,9,17,25,E
+Sorghum,83,124,Libya,6,10,14,E
+Sorghum,83,129,Madagascar,15,20,25,TCF
+Sorghum,83,130,Malawi,8,13,18,E
+Sorghum,83,131,Malaysia,12,20,28,E
+Sorghum,83,132,Maldives,12,18,24,E
+Sorghum,83,133,Mali,5,9,13,TCF
+Sorghum,83,134,Malta,4,13,22,E
+Sorghum,83,136,Mauritania,7,11,15,E
+Sorghum,83,137,Mauritius,34,40,46,TCF
+Sorghum,83,138,Mexico,8,12,16,E
+Sorghum,83,141,Mongolia,8,14,19,E
+Sorghum,83,143,Morocco,5,11,17,E
+Sorghum,83,144,Mozambique,10,15,20,TCF
+Sorghum,83,145,"Micronesia, Fed. Sts.",13,24,35,E
+Sorghum,83,146,Moldova,7,15,23,E
+Sorghum,83,147,Namibia,1,2,3,TCF
+Sorghum,83,149,Nepal,10,16,22,E
+Sorghum,83,154,"Macedonia, FYR",8,15,22,E
+Sorghum,83,155,Vanuatu,12,22,32,E
+Sorghum,83,156,New Zealand,10,16,22,E
+Sorghum,83,157,Nicaragua,12,18,24,E
+Sorghum,83,158,Niger,8,12,16,E
+Sorghum,83,159,Nigeria,7,13,19,E
+Sorghum,83,165,Pakistan,7,14,21,E
+Sorghum,83,166,Panama,6,14,22,TCF
+Sorghum,83,167,Czech Republic,6,13,20,E
+Sorghum,83,168,Papua New Guinea,13,24,35,E
+Sorghum,83,169,Paraguay,10,14,18,E
+Sorghum,83,170,Peru,10,14,18,E
+Sorghum,83,171,Philippines,13,20,27,E
+Sorghum,83,173,Poland,7,14,21,E
+Sorghum,83,174,Portugal,7,14,21,E
+Sorghum,83,175,Guinea-Bissau,6,9,12,TCF
+Sorghum,83,176,Timor-Leste,9,16,23,E
+Sorghum,83,178,Eritrea,7,11,15,TCF
+Sorghum,83,179,Qatar,4,7,10,E
+Sorghum,83,180,Palau,13,23,33,E
+Sorghum,83,181,Zimbabwe,10,15,20,TCF
+Sorghum,83,183,Romania,8,15,22,E
+Sorghum,83,184,Rwanda,8,12,16,E
+Sorghum,83,185,Russian Federation,10,14,18,E
+Sorghum,83,188,St. Kitts and Nevis,10,15,20,E
+Sorghum,83,189,St. Lucia,12,17,22,E
+Sorghum,83,191,St. Vincent and the Grenadines,10,15,20,E
+Sorghum,83,193,Sao Tome and Principe,9,16,23,E
+Sorghum,83,194,Saudi Arabia,8,11,14,E
+Sorghum,83,195,Senegal,4,6,8,TCF
+Sorghum,83,196,Seychelles,6,13,20,E
+Sorghum,83,197,Sierra Leone,9,17,25,E
+Sorghum,83,198,Slovenia,8,15,22,E
+Sorghum,83,199,Slovak Republic,8,15,22,TCF
+Sorghum,83,200,Singapore,9,14,19,E
+Sorghum,83,202,South Africa,3,6,9,TCF
+Sorghum,83,203,Spain,7,13,19,E
+Sorghum,83,206,Sudan,5,12,19,E
+Sorghum,83,207,Suriname,11,17,23,E
+Sorghum,83,208,Tajikistan,6,14,22,E
+Sorghum,83,209,Swaziland,8,12,16,E
+Sorghum,83,212,the Syrian Arab Republic,23,30,37,TCF
+Sorghum,83,213,Turkmenistan,7,14,21,E
+Sorghum,83,215,Tanzania,7,12,17,E
+Sorghum,83,216,Thailand,12,17,22,E
+Sorghum,83,217,Togo,7,13,19,E
+Sorghum,83,219,Tonga,9,20,31,E
+Sorghum,83,220,Trinidad and Tobago,7,13,19,E
+Sorghum,83,221,Oman,8,11,14,E
+Sorghum,83,222,Tunisia,7,11,15,E
+Sorghum,83,223,Turkey,8,13,18,E
+Sorghum,83,225,United Arab Emirates,6,10,16,E
+Sorghum,83,226,Uganda,10,15,20,TCF
+Sorghum,83,230,Ukraine,7,15,23,E
+Sorghum,83,231,United States,4,8,12,TCF
+Sorghum,83,233,Burkina Faso,6,13,20,E
+Sorghum,83,234,Uruguay,9,14,19,E
+Sorghum,83,235,Uzbekistan,5,14,23,E
+Sorghum,83,236,"Venezuela, RB",11,16,21,E
+Sorghum,83,237,Vietnam,13,18,23,E
+Sorghum,83,238,Ethiopia,5,10,15,TCF
+Sorghum,83,244,Samoa,14,24,34,E
+Sorghum,83,249,"Yemen, Rep.",4,13,22,E
+Sorghum,83,250,"Congo, Dem. Rep.",9,14,19,E
+Sorghum,83,251,Zambia,8,13,18,E
+Sorghum,83,272,Serbia,8,15,22,E
+Sorghum,83,273,Montenegro,10,16,22,E
+Wheat,15,5706,European.Union,174,180,186,TCF
+Maize,56,5706,European.Union,25,31,37,TCF
+Barley,44,5706,European.Union,144,150,156,TCF
+Beans Dry,176,5706,European.Union,113,119,125,E
+Potatoes,116,5706,European.Union,2244,2250,2256,TCF
+Oats,75,5706,European.Union,144,150,156,TCF
+Rye,71,5706,European.Union,122,130,138,TCF
+Peas Dry,187,5706,European.Union,114,120,126,TCF
+Soybeans,236,5706,European.Union,115,121,127,E
