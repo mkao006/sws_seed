@@ -149,21 +149,35 @@ getCountryName = function(){
     tmp
 }
 
-imputeAreaSown = function(valueAreaSown, valueAreaHarvested, flagObsAreaSown,
-    flagObsAreaHarvested, imputedFlag = "i"){
-    if(all(is.na(valueAreaSown))){
-        valueAreaSown = valueAreaHarvested
-        flagObsAreaSown = flagObsAreaHarvested
+imputeAreaSown = function(data, valueAreaSown = "Value_measuredElement_5025",
+    valueAreaHarvested = "Value_measuredElement_5312",
+    flagObsAreaSown = "flagObservationStatus_measuredElement_5025",
+    flagObsAreaHarvested = "flagObservationStatus_measuredElement_5312",
+    flagMethodAreaSown = "flagMethod_measuredElement_5025",
+    imputedObsFlag = "I", imputedMethodFlag = "e"){
+    if(all(is.na(data[[valueAreaSown]]))){
+        data[[valueAreaSown]] = data[[valueAreaHarvested]]
+        data[[flagObsAreaSown]] = data[[flagObsAreaHarvested]]
     } else {
-        ratio = mean(valueAreaSown/valueAreaHarvested, na.rm = TRUE)
-        replaceIndex = is.na(valueAreaSown) & !is.na(valueAreaHarvested)
-        valueAreaSown[replaceIndex] =
-            valueAreaHarvested[replaceIndex] * ratio
-        flagObsAreaSown[replaceIndex] = flagObsAreaHarvested[replaceIndex]
+        ratio =
+            mean(computeRatio(data[[valueAreaSown]],
+                              data[[valueAreaHarvested]]),
+                 na.rm = TRUE)
+        replaceIndex =
+            is.na(data[[valueAreaSown]]) &
+            !is.na(data[[valueAreaHarvested]])
+        data[[valueAreaSown]][replaceIndex] =
+            data[[valueAreaHarvested]][replaceIndex] * ratio
+        ## NOTE (Michael): This is actually wrong, the flag should not
+        ##                 be transferred.
+        ##
+        ## data[[flagObsAreaSown]][replaceIndex] =
+        ##     data[[flagObsAreaHarvested]]
+        data[[flagObsAreaSown]][replaceIndex] = imputedObsFlag
+        data[[flagMethodAreaSown]][replaceIndex] = imputedMethodFlag
     }
-    list(valueAreaSown, flagObsAreaSown, imputedFlag)
+    data
 }
-
 
 
 getWorldBankClimateData = function(){
@@ -209,6 +223,36 @@ getStandardSeedRate = function(){
     seedGeneral.dt
 }
 
+imputeAreaSown = function(data, valueAreaSown = "Value_measuredElement_5025",
+    valueAreaHarvested = "Value_measuredElement_5312",
+    flagObsAreaSown = "flagObservationStatus_measuredElement_5025",
+    flagObsAreaHarvested = "flagObservationStatus_measuredElement_5312",
+    flagMethodAreaSown = "flagMethod_measuredElement_5025",
+    imputedObsFlag = "I", imputedMethodFlag = "e"){
+    if(all(is.na(data[[valueAreaSown]]))){
+        data[[valueAreaSown]] = data[[valueAreaHarvested]]
+        data[[flagObsAreaSown]] = data[[flagObsAreaHarvested]]
+    } else {
+        ratio =
+            mean(computeRatio(data[[valueAreaSown]],
+                              data[[valueAreaHarvested]]),
+                 na.rm = TRUE)
+        replaceIndex =
+            is.na(data[[valueAreaSown]]) &
+            !is.na(data[[valueAreaHarvested]])
+        data[[valueAreaSown]][replaceIndex] =
+            data[[valueAreaHarvested]][replaceIndex] * ratio
+        ## NOTE (Michael): This is actually wrong, the flag should not
+        ##                 be transferred.
+        ##
+        ## data[[flagObsAreaSown]][replaceIndex] =
+        ##     data[[flagObsAreaHarvested]]
+        data[[flagObsAreaSown]][replaceIndex] = imputedObsFlag
+        data[[flagMethodAreaSown]][replaceIndex] = imputedMethodFlag
+    }
+    data
+}
+
 mergeAllSeedData = function(seedData, ...){
     explanatoryData = list(...)
     Reduce(f = function(x, y){
@@ -232,30 +276,44 @@ removeCarryForward = function(data, variable){
     data         
 }
 
+## Get all the required data and processing
 requiredArea = getAllArea()
 requiredItems = getAllItemCPC()
 countryClassification = getCountryClassification()
 countryNames = getCountryName()
 wb = getWorldBankClimateData()
 seed = getOfficialSeedData()
-area = getAreaData()
+area = getAreaData() %>%
+    imputeAreaSown(data = .,
+                   valueAreaSown = "Value_measuredElement_5212",
+                   valueAreaHarvested = "Value_measuredElement_5312",
+                   flagObsAreaSown = "flagObservationStatus_measuredElement_5212",
+                   flagObsAreaHarvested =
+                       "flagObservationStatus_measuredElement_5312",
+                   flagMethodAreaSown = "flagMethod_measuredElement_5212",
+                   imputedObsFlag = "I", imputedMethodFlag = "e")        
 stdSeedRate = getStandardSeedRate()
-itemName = GetCodeList(domain = "agriculture", dataset = "agriculture", dimension = "measuredItemCPC")[, list(measuredItemCPC = code, measuredItemNameCPC = description)]
+itemName =
+    GetCodeList(domain = "agriculture",
+                dataset = "agriculture",
+                dimension = "measuredItemCPC")[, list(measuredItemCPC = code,
+                    measuredItemNameCPC = description)]
 
 
-
-final = mergeAllSeedData(seedData = seed, area, countryNames, wb, stdSeedRate, itemName)
+## Merge all the data
+final = mergeAllSeedData(seedData = seed, area, countryNames, wb, stdSeedRate,
+    itemName)
 setnames(final,
          old = c("Value_measuredElement_5525", "Value_measuredElement_5212",
              "Value_measuredElement_5312", "Value_wbIndicator_SWS.FAO.TEMP",
              "Value_wbIndicator_SWS.FAO.PREC", "Value_seedRate"),
          new = c("seed", "areaSown", "areaHarvested", "temperature",
              "precipitation", "seedRate"))
+
 ## Create hierachy levels for CPC
 final[, `:=`(c("cpclv1", "cpclv2", "cpclv3"),
              lapply(1:3,
                     FUN = function(x) substring(.SD$measuredItemCPC, 1, x)))]
-
 final[, cpcLv3Name := itemName[match(cpclv3, itemName$measuredItemCPC),
                        measuredItemNameCPC]]
 
@@ -266,16 +324,25 @@ final[, `:=`(c("geographicAreaM49Name", "cpclv1", "cpclv2", "cpclv3",
                "measuredItemCPC"),
                     FUN = function(x) factor(.SD[[x]])))]
 
+setkeyv(final, cols = c("geographicAreaM49", "measuredItemCPC", "timePointYears"))
+## Create lagged area sown
+final[, leadAreaSown := c(.SD[0:(.N - 1), areaSown], NA),
+      by = c("geographicAreaM49", "measuredItemCPC")]
 
 seedRemoveCarryForward = removeCarryForward(final, "seed")
 seedFinalData = subset(seedRemoveCarryForward,
-    seed > 1 & areaHarvested > 1 & !measuredItemCPC %in% c("01802", "01921.01"))
+    seed > 1 & areaHarvested > 1 & areaSown > 1 & leadAreaSown > 1 &
+        !measuredItemCPC %in% c("01802", "01921.01"))
 
 ##  Plots
 xyplot(seed ~ areaHarvested, data = seedFinalData)
 xyplot(log(seed) ~ log(areaHarvested), data = seedFinalData)
+xyplot(log(seed) ~ log(areaSown), data = seedFinalData)
+xyplot(log(seed) ~ log(leadAreaSown), data = seedFinalData)
 
-xyplot(log(seed) ~ log(areaHarvested)|geographicAreaM49Name * cpclv3, data = seedFinalData)
+xyplot(log(seed) ~ log(areaSown)|geographicAreaM49Name * cpclv3, data = seedFinalData)
+
+xyplot(log(seed) ~ log(leadAreaHarvested)|geographicAreaM49Name * cpclv3, data = seedFinalData)
 
 xyplot(log(seed) ~ temperature, data = seedFinalData)
 xyplot(log(seed) ~ precipitation, data = seedFinalData)
@@ -298,7 +365,7 @@ seedLmModel = lm(log(seed) ~ temperature + precipitation + timePointYears +
 ## Need to add the hierachy for area
 seedLmeModel = 
     lmer(log(seed) ~ temperature + timePointYears +
-         (-1 + log(areaHarvested)|cpcLv3Name/measuredItemNameCPC/measuredItemNameCPC:geographicAreaM49Name),
+         (-1 + log(leadAreaSown)|cpcLv3Name/measuredItemNameCPC/measuredItemNameCPC:geographicAreaM49Name),
          data = finalTrainData)
 
 randomEffects = ranef(seedLmeModel)
@@ -319,7 +386,8 @@ finalTrainData$predicted = exp(predict(seedLmeModel, finalTrainData,
 
 par(mfrow = c(1, 2))
 with(finalTrainData, plot(predicted, seed,
-                 xlim = c(0, 1.5e7), ylim = c(0, 1.5e7)))
+                 xlim = c(0, 1.5e7), ylim = c(0, 1.5e7),
+                          main = "predicted vs observed (Train)"))
 abline(a = 0, b = 1, col = "red", lty = 2)
 with(finalTrainData, plot(log(predicted), log(seed), xlim = c(0, 20),
                           ylim = c(0, 20)))
@@ -336,7 +404,6 @@ with(finalTestData, plot(predicted, seed,
                  xlim = c(0, 1.5e7), ylim = c(0, 1.5e7),
                          main = "predicted vs observed (Test)"))
 abline(a = 0, b = 1, col = "red", lty = 2)
-
 with(finalTestData, plot(log(predicted), log(seed), xlim = c(0, 20),
                           ylim = c(0, 20)))
 abline(a = 0, b = 1, col = "red", lty = 2)
