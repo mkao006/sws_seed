@@ -326,7 +326,7 @@ final[, `:=`(c("geographicAreaM49Name", "cpclv1", "cpclv2", "cpclv3",
 
 setkeyv(final, cols = c("geographicAreaM49", "measuredItemCPC", "timePointYears"))
 ## Create lagged area sown
-final[, leadAreaSown := c(.SD[0:(.N - 1), areaSown], NA),
+final[, leadAreaSown := c(NA, .SD[0:(.N - 1), areaSown]),
       by = c("geographicAreaM49", "measuredItemCPC")]
 
 seedRemoveCarryForward = removeCarryForward(final, "seed")
