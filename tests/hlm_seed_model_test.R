@@ -253,6 +253,16 @@ imputeAreaSown = function(data, valueAreaSown = "Value_measuredElement_5025",
     data
 }
 
+## Create lead area sown
+lead = function(x, lead){
+    if(length(x) < (lead + 1)){
+        tmp = as.numeric(rep(NA, length(x)))
+    } else {
+        tmp = c(x[(lead + 1):length(x)], rep(NA, lead))
+    }
+    tmp
+}
+
 mergeAllSeedData = function(seedData, ...){
     explanatoryData = list(...)
     Reduce(f = function(x, y){
@@ -325,8 +335,8 @@ final[, `:=`(c("geographicAreaM49Name", "cpclv1", "cpclv2", "cpclv3",
                     FUN = function(x) factor(.SD[[x]])))]
 
 setkeyv(final, cols = c("geographicAreaM49", "measuredItemCPC", "timePointYears"))
-## Create lagged area sown
-final[, leadAreaSown := c(.SD[0:(.N - 1), areaSown], NA),
+
+final[, leadAreaSown := lead(areaSown, lead = 1),
       by = c("geographicAreaM49", "measuredItemCPC")]
 
 seedRemoveCarryForward = removeCarryForward(final, "seed")
@@ -334,26 +344,26 @@ seedFinalData = subset(seedRemoveCarryForward,
     seed > 1 & areaHarvested > 1 & areaSown > 1 & leadAreaSown > 1 &
         !measuredItemCPC %in% c("01802", "01921.01"))
 
-##  Plots
-xyplot(seed ~ areaHarvested, data = seedFinalData)
-xyplot(log(seed) ~ log(areaHarvested), data = seedFinalData)
-xyplot(log(seed) ~ log(areaSown), data = seedFinalData)
-xyplot(log(seed) ~ log(leadAreaSown), data = seedFinalData)
+## ##  Plots
+## xyplot(seed ~ areaHarvested, data = seedFinalData)
+## xyplot(log(seed) ~ log(areaHarvested), data = seedFinalData)
+## xyplot(log(seed) ~ log(areaSown), data = seedFinalData)
+## xyplot(log(seed) ~ log(leadAreaSown), data = seedFinalData)
 
-xyplot(log(seed) ~ log(areaSown)|geographicAreaM49Name * cpclv3, data = seedFinalData)
+## xyplot(log(seed) ~ log(areaSown)|geographicAreaM49Name * cpclv3, data = seedFinalData)
 
-xyplot(log(seed) ~ log(leadAreaHarvested)|geographicAreaM49Name * cpclv3, data = seedFinalData)
+## xyplot(log(seed) ~ log(leadAreaHarvested)|geographicAreaM49Name * cpclv3, data = seedFinalData)
 
-xyplot(log(seed) ~ temperature, data = seedFinalData)
-xyplot(log(seed) ~ precipitation, data = seedFinalData)
+## xyplot(log(seed) ~ temperature, data = seedFinalData)
+## xyplot(log(seed) ~ precipitation, data = seedFinalData)
 
-xyplot(log(seed) ~ temperature|geographicAreaM49Name, data = seedFinalData)
+## xyplot(log(seed) ~ temperature|geographicAreaM49Name, data = seedFinalData)
 
-xyplot(log(seed) ~ precipitation|geographicAreaM49Name, data = seedFinalData)
+## xyplot(log(seed) ~ precipitation|geographicAreaM49Name, data = seedFinalData)
 
 
 
-## Create training an test set
+## create training an test set
 trainIndex = sample(NROW(seedFinalData), NROW(seedFinalData) * 0.75)
 finalTrainData = seedFinalData[trainIndex, ]
 finalTestData = seedFinalData[-trainIndex, ]
@@ -399,6 +409,7 @@ finalTestData$predicted = exp(predict(seedLmeModel, finalTestData,
     allow.new.levels = TRUE))
 
 ## Plot the predicted with observed in the training data
+pdf(file = "predictionOnTest.pdf")
 par(mfrow = c(1, 2))
 with(finalTestData, plot(predicted, seed,
                  xlim = c(0, 1.5e7), ylim = c(0, 1.5e7),
@@ -407,3 +418,4 @@ abline(a = 0, b = 1, col = "red", lty = 2)
 with(finalTestData, plot(log(predicted), log(seed), xlim = c(0, 20),
                           ylim = c(0, 20)))
 abline(a = 0, b = 1, col = "red", lty = 2)
+graphics.off()
